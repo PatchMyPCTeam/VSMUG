@@ -9,7 +9,7 @@ I will try to add to the Readme with any notes regarding these, but wanted to at
 ### Configuration Baselines
 * **ConfigMgr: _ALL (For Import Export)**
   * Strictly used for importing, and exporting all the CIs and CBs. This should not be deployed
-*  ConfigMgr: Distribution Point
+* **ConfigMgr: Distribution Point**
   * IIS log cleanup and configuration
   * Ensure IIS service is running, and DP app pool is running
   * Automatic deduplication configuration
