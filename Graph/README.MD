@@ -11,7 +11,7 @@ $AuthHeaders = Get-AuthToken -User Joe@Contoso.com
 Once you have an authentication token you are able to use it to query for data. 
 
 ```powershell
-$AllDevices = et-ManagedDevices -AuthHeader $AuthHeaders
+$AllDevices = Get-ManagedDevices -AuthHeader $AuthHeaders
 ```
 
 And depending on how you write your functions, you can start to leverage the pipeline of PowerShell!
