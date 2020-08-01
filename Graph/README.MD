@@ -19,3 +19,11 @@ And depending on how you write your functions, you can start to leverage the pip
 ```powershell
 $AllDevices | Get-ManagedDeviceDetectedApps -ApplicationFilter 'Chrome','Edge' -AuthHeader $AuthHeaders
 ```
+
+It is good to note that the Get-ManagedDevices and Get-ManagedDeviceDetectedApps both rely on the Get-MsGraphData function. This function ultimately does the Invoke-RestMethod against the Graph API to return data with a Get method. The plain code to do a graph query via PowerSehll might look something like below.
+
+```powershell
+Invoke-RestMethod -Method Get -Uri https://graph.microsoft.com/beta/deviceManagement/managedDevices -Headers $AuthHeader
+```
+
+The functions are just a wrapper to simplify grabbing some standard bits of information and creating more familiar commands to be run.
