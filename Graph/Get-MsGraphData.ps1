@@ -44,8 +44,6 @@ Function Get-MsGraphData {
                 }
                 $NextLink = $Result.'@odata.nextLink'
             } while ($null -ne $NextLink)
-        
-            Write-Output $Collection
         }
     }
 }
