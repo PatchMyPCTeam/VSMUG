@@ -1,0 +1,746 @@
+﻿Source,Type,Identity,Timestamp,Conversation Id,Content
+Attendee,Question,Bens Shadow (Unverified),10/27/2020 14:53,69fbbb26-8d7b-4e4d-8cc1-1315e5b39206,hey
+Attendee,Question,Bens Shadow (Unverified),10/27/2020 15:01,2ffbfcda-6b01-4898-b7ec-2ec44e72669e,hey
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 15:25,2ffbfcda-6b01-4898-b7ec-2ec44e72669e,"Hello! 👋 hope you enjoy the event!(Bens Shadow (Unverified) asked ""hey"")"
+Attendee,Question,Ian (Unverified),10/27/2020 15:02,092a1c97-df8d-4aae-8bdd-8f106056ce4a,Greetings Programs!
+Attendee,Question,Abs (Unverified),10/27/2020 15:03,bfc0d757-935a-4b12-807d-d80da5bc416d,Hello
+Attendee,Question,Nick W. (Unverified),10/27/2020 15:03,9de964e7-91b1-419a-b6c5-0e23e44fda77,will this be recorded/published?
+Attendee,Question,Nick W. (Unverified),10/27/2020 15:03,8b67a3c1-a615-4e8a-be59-a8c0a177fcc0,will this be recorded/published?
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 15:04,8b67a3c1-a615-4e8a-be59-a8c0a177fcc0,"Yes, we'll post on Youtube(Nick W. (Unverified) asked ""will this be recorded/published?"")"
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:04,8b4ce644-3f30-4b07-94a6-4fd419f440b3,"Hi Justin, I really appreciate you making your MEM videos. Could I ask you a question about CMG?
+
+•	For deploying a CMG, and you want to use EHTTP for the intranet clients, do you also need a HTTPS Software Update Point? Can you just have the public cert on the CMG, and no certs for intranet clients to SUP?"
+Attendee,Question,HANK (Unverified),10/27/2020 15:04,fb62b140-8ce3-4656-8fbd-de574d52a577,Time's up!
+Attendee,Question,HANK (Unverified),10/27/2020 15:05,7677ec06-51bd-4439-bfb9-e87ce20c07dd,Can't see that liveshow hasn't start yet.. What's up?
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 15:06,7677ec06-51bd-4439-bfb9-e87ce20c07dd,"Thanks! Starting now(HANK (Unverified) asked ""Can't see that liveshow hasn't start yet.. What's up?"")"
+Attendee,Response,HANK (Unverified),10/27/2020 15:07,7677ec06-51bd-4439-bfb9-e87ce20c07dd,"Good, thanks!(HANK (Unverified) asked ""Can't see that liveshow hasn't start yet.. What's up?"")"
+Attendee,Question,Rajesh Jayaraj (Unverified),10/27/2020 15:06,e00dbf1c-8201-42eb-b0be-d03e01d87bcf,Not started??
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 15:07,e00dbf1c-8201-42eb-b0be-d03e01d87bcf,"Sorry working on it!(Rajesh Jayaraj (Unverified) asked ""Not started??"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,c0d22b37-c7e8-4393-8941-b6e394b3e1b6,YOure live
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,e0b9a6b0-b397-4257-a6e5-adfcec3d9df5,its live
+Attendee,Response,Anonymous (Unverified),10/27/2020 15:07,e0b9a6b0-b397-4257-a6e5-adfcec3d9df5,and it works just fine(its live)
+Attendee,Response,Anonymous (Unverified),10/27/2020 15:08,e0b9a6b0-b397-4257-a6e5-adfcec3d9df5,"yes its fine, but we very much enjoy your mini panic(its live)"
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 15:08,e0b9a6b0-b397-4257-a6e5-adfcec3d9df5,:)(its live)
+Attendee,Response,Anonymous (Unverified),10/27/2020 15:10,e0b9a6b0-b397-4257-a6e5-adfcec3d9df5,yes(its live)
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,01bd0660-92d2-47a3-885f-e8f12a8834a5,I can see
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,17094cd5-ceee-4d05-912e-65078c338153,And hear you
+Attendee,Question,Jim Wells (Unverified),10/27/2020 15:07,8e0e3262-e6e9-4f0d-975f-3f27375f5756,You're live
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,a6387d7e-7186-4464-81db-edcc7642e761,You're live
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,358bed35-e72e-4272-8133-6e63032ecff6,I can see and hear you fine
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,2fd5113b-8cbb-4060-bf54-1c3a0f1beee6,its working! we see you
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,1129b449-48bb-42e4-907b-4985f425d45a,We can see you
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,565b1ae8-ea58-4b4e-a934-6e641bb9bd63,You're live.  I can see everything.
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,749d7c0a-53c9-4789-8889-01763abd811a,I see it at least
+Attendee,Question,Joey (Unverified),10/27/2020 15:07,dedc8008-a903-46d6-a147-8c78e90d295f,Yes u do
+Attendee,Question,Steve S (Unverified),10/27/2020 15:07,f9a2dfb4-9edf-4876-88ce-1dba049ac2f7,We see a slide
+Attendee,Question,Joseph (Unverified),10/27/2020 15:07,2db0ad7f-8c20-45da-8207-e9548754ed3d,"Yes, I've seen everything ffrom the start"
+Attendee,Question,Blake (Unverified),10/27/2020 15:07,20d0e9b3-bd68-4c42-b470-efa410784bbb,I can see everything 
+Attendee,Response,Blake (Unverified),10/27/2020 15:07,20d0e9b3-bd68-4c42-b470-efa410784bbb,"I can also hear you guys(Blake (Unverified) asked ""I can see everything "")"
+Attendee,Question,Jared (Unverified),10/27/2020 15:07,ce41568e-d813-4505-ae1e-9bf078731def,"Yes, you have"
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:07,7b75671f-a1c6-476e-9a18-c2e0fbe40715,I can see it and yours says LIVE
+Attendee,Question,Eric Mullinax (Unverified),10/27/2020 15:07,9a35dd07-ed19-460b-aaec-51d986f2b57a,"I can see, you're live"
+Attendee,Question,Andrew (Unverified),10/27/2020 15:07,a4b680ba-e3db-463e-9120-64c67e57a14f,Yes you're live
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,17fc4d58-2715-47ca-a0f0-cb1e6aaaf1fa,I can hear and see your screen
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,c739e381-07f1-4ec7-91ff-0e2b38cb3405,you are presenting
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,8d1fa809-0389-4b99-9bc4-1762610acd1b,we can see
+Attendee,Question,Nick W. (Unverified),10/27/2020 15:07,65b906d3-3c99-4115-9513-bc12d23642d5,I can see your slides and cursor 
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,45602a8c-1455-43e3-be4e-78e5c72ac5bc,I had to exit and rejoin to see it.
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,589d64d5-d12a-4a43-9de9-f2d40df04a22,looks live to me
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,42c52e3c-7487-4544-a68d-b0d3d4f008c0,You are live... Can hear you and see your screen when you have been explaining things.
+Attendee,Question,Harjit (Unverified),10/27/2020 15:07,f60ac23f-88a2-4b95-be77-a4f61b121244,Justin you are Live and presenting
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,d66f0aea-370f-40c7-9cda-bd1206f01248,I can see you!
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,7ef41d80-9cb9-4c5f-9625-4f5ad0ef04b6,I see content
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,4dae8bd7-28b6-4b7c-9915-87e72a10db4e,Yes I have seen you presenting
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,2952dcee-f26e-4634-a563-2ff1bca20835,I could see the browser
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,59bcd665-69df-49d0-9dd8-d8e5937fb8c3,Can see and hear ya!
+Attendee,Response,Anonymous (Unverified),10/27/2020 15:07,59bcd665-69df-49d0-9dd8-d8e5937fb8c3,Can see the who we are and getting involved(Can see and hear ya!)
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,083c5375-17b1-4c98-a7f3-55987d2b5117,youve been presenting fine
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:07,741bedaa-5082-4cd8-9f03-a0b28ec5f64c,Viewing Live Broadcast
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,6deb5d93-1ef5-4204-9523-d6588d475fa5,I have been able to see and hear everything.
+Attendee,Question,Aaron (Unverified),10/27/2020 15:07,1f8d159b-ff58-43d1-9b2b-1ff057d819ce,I see Justin
+Attendee,Question,Tim (Unverified),10/27/2020 15:07,866c1d19-a15b-4195-93f5-823569db081a,I hear and see everthing :)
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,5e2b8356-da81-4de0-a3fe-39587624ba52,You've been live all the time...
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 15:14,5e2b8356-da81-4de0-a3fe-39587624ba52,"Super odd, Teams seems to be showing it live now finally 😊(You've been live all the time...)"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,49f2f647-494e-47ae-ada7-30b892ef06c9,It looks great on my end. Can see the powerpoint. 
+Attendee,Question,I have seen everything (Unverified),10/27/2020 15:07,4c957334-c3d4-4469-b2d1-70a67e3a570f,I have seen everything
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,a84f3c87-72f7-4c80-b6bf-9267a1bc5ab4,You are live
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,7ae647a1-c07d-499a-b540-828a3ee6c85a,Streaming fine in the UK :-)
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,4e0ee5bc-f4db-4af6-8e29-a47ee6e81e6e,I had to click on the Live button to get live
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,fab89131-54a0-43ac-a6d1-b91098de00b4,We can see the slides and hear you
+Attendee,Question,Irfan Fakih (Unverified),10/27/2020 15:07,5cfd15a2-02b8-44bd-bff2-a9244e6dc148,"I see all slides, and everythign"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,cfe294c8-43d8-4d40-86a5-4e3774730043,I see stuff
+Attendee,Question,Dan Olson (Unverified),10/27/2020 15:07,5db3c06d-cb72-45e8-9443-191959b393e2,I see VSMUG - Who We Are and Getting involved
+Attendee,Question,Andrew Berges (Unverified),10/27/2020 15:07,467853ff-eac9-48f0-9e07-37f3ce21f149,you're presenting FYI
+Attendee,Question,Tom (Unverified),10/27/2020 15:07,b47684a2-e679-4a5f-bba3-c87aa8ba3867,I've been seeing your screen.
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,72b2cad5-e8a0-4397-a89e-477a5dd58471,i can see the VSMUG - 
+Attendee,Question,Jon (Unverified),10/27/2020 15:07,f2c5567f-67dd-4549-940d-dc019aa5a480,Yes we can see the presentation and also saw your desktop.
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,e5650e13-e1f6-45e7-bbe1-b35218b7ab96,We have been seeing you
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,4f73c9fb-23a7-4647-9fa8-51a43c67c777,I've seen and heard you
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,8796ee63-4fd0-4714-9f34-bb7308a0dbce,all was fine
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,b2379bb7-b4a1-47c4-95c5-b85880bdfdd8,I see the presentation
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,ad9138f7-d59e-490d-a513-f872c363ae90,:)
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,44d809ef-ae23-4e2c-8145-56bb213b8587,I'm seeing content
+Attendee,Question,Josh (Unverified),10/27/2020 15:07,c0680e98-280b-455e-9685-69a1435641b5,your live and i can see it
+Attendee,Question,Paul (Unverified),10/27/2020 15:07,99ce6311-1927-461a-9f0f-7e8dc726a79c,I can see your presentation
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,6b519d38-32b3-4acf-9b95-75a46f3d30d4,we see everything 
+Attendee,Question,Ben D. (Unverified),10/27/2020 15:07,8845b0d5-c1cb-427d-b295-4852bc91ff72,I'm seeing everything...
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,42dca0c0-3af6-4277-ace6-9905c3043369,I saw the presentation. 
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,64bae3bc-1883-4664-aa1f-b5c47da295b9,I saw the whole thing
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,47049543-c313-4348-a5de-f40e1c63fee2,We are seeing what you are presenting
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,8a13318c-b493-4044-a942-d460a41646d8,I can see it all
+Attendee,Question,Tomas Astrauskas (Unverified),10/27/2020 15:07,8d2b07c7-dfee-4761-af4c-121f14ef3e9e,"I can see ""VSMUG - Who We Are and Getting Involved!"""
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,5ded62a7-24f2-4311-83cd-3e9798d1946c,I saw the presentation
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,133cd1bc-1527-448f-a7da-dc771a5e829e,I can see/hear your screen and what you are doing
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,a5674691-78f4-484a-ab65-d671b0ae69d6,Push the presenter to live
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,4c6b0f5f-9f59-4a55-98e4-341e692f2409,You are presenting
+Attendee,Question,Steve S (Unverified),10/27/2020 15:07,65ec8d83-8d1b-4437-a009-753a6aa34082,we see a slide with links
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,2151c132-5918-4c76-9b8e-5ebacfb200df,it's live
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,34c91394-e876-4ade-83d2-9f244c0af3c1,"Shows live for me, I can see everything."
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,02851bfb-015e-41f1-84ed-1dd64965cc27,I was watching and listening. 
+Attendee,Question,Bob (Unverified),10/27/2020 15:07,e9115b4a-9641-4793-a8fe-aebdea446e94,I see your screen... looks ok to me
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,24cf09bd-9859-42ce-b3fc-88e1ef41f710,I can see everything that is happening
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,008ae352-9fb0-4ed3-8438-b139fc678ff4,i see the screen... what are we missing?
+Attendee,Question,Joseph Rose (Unverified),10/27/2020 15:07,8bdc1642-b5a5-4521-b449-441a3b27ecc3,its live
+Attendee,Question,Thomas Marcussen (Unverified),10/27/2020 15:07,d5d96783-68a5-4034-aa3c-8d8e1325229a,You are presenting hte Who We are and getting involved
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,43240e5e-0c11-4a3d-8fdb-5d2a1e48deae,We are live
+Attendee,Question,Irfan Fakih (Unverified),10/27/2020 15:07,52670106-4e32-4e05-8cc1-57ab086f75a8,You are lIVE
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,f41191e5-2169-4cad-a5a1-07fae4df2af0,and hear Justin
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,f4101a86-d451-49a4-ac34-2b004eda1238,you are live
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,a5627aee-13b8-492d-81bc-2f463b40cb34,its been working for me live FYI
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,b3d4c969-0fef-4837-95cc-cd909be8f0cf,Was originally getting a black screen only
+Attendee,Question,We hear you! (Unverified),10/27/2020 15:07,3f62d25b-e258-4ae9-a880-39b8ba43e0f2,You're presenting!
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,d4f88e5a-bb7a-431b-9fa7-05a34ce276d3,its live
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,416a5f0a-599d-46a3-8481-3c60bc887c79,i can see your slides
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,5853e0cd-0dcc-4154-bacf-8a28d27701e5,it live
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,15c32137-7195-4f85-b130-dd8e53c20e8e,I'm seeing everything. (y)
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:07,e3ddb86e-1aa7-485e-886f-304fd9ea29be,we can see the slideshow!
+Attendee,Question,Joseph (Unverified),10/27/2020 15:07,e6cd7173-94e0-4dd6-a213-f5c6afb177a5,"And yes, some intro music would be good :)"
+Attendee,Question,Sam (Unverified),10/27/2020 15:07,1b7b8dd6-7d8b-48fd-9ae3-90a9eea7c214,All I see is the vsmug - who we are and getting involved slide
+Attendee,Question,Dirk (Unverified),10/27/2020 15:08,4a19199a-ee45-4981-b33f-9cb548c6b6f9,We see the slides
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:08,31bc0515-28db-43d3-b50e-25db04c92f34,I can see the VSMUG-Who We Are and Getting Involved
+Attendee,Question,Dan Olson (Unverified),10/27/2020 15:08,e525c90c-1fcb-4b41-a430-d8b2d979ea2c,"What SHOULD we be seeing right now?
+'"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:08,c5eca902-6d7d-4477-ad99-413fcc0618a4,keep calm and carry on ;-)
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:08,a11e9a63-db2c-4f58-9314-7ec30be9c227,I see VSMUG slide deck
+Attendee,Question,Rojas (Unverified),10/27/2020 15:08,263af4f7-e4ba-4d43-9aa2-5a9cbe5a0310,I can see and hear
+Attendee,Question,BaardH (Unverified),10/27/2020 15:08,c0540fa5-4251-484b-99fd-283bcf0ea940,"Certainly looks live to me, i can see the presenters screen just fine."
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:08,4f6285eb-8379-4886-8570-b7ec4981804f,I can see you 
+Attendee,Question,Steve S (Unverified),10/27/2020 15:08,d9e72d32-9eb5-4bbd-a1d3-46067da05838,and we saw when he dragged the window over
+Attendee,Question,Ben D. (Unverified),10/27/2020 15:08,22819312-ca75-4ed7-9c0c-585a3f75282d,currently viewing the link page.
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:08,52de1941-80e4-482a-bec4-7d7a7b334684,You're live - can see your presentation
+Attendee,Question,Jo (Unverified),10/27/2020 15:08,9948c106-52a7-4bbc-bcb4-e3c66a189e0d,I only see a VSMUG slide (no cams though)
+Attendee,Question,Harjit (Unverified),10/27/2020 15:08,0ab6049b-248b-4fe7-b81b-bfefd9e6d0dd,Bottom left corner will show that you are Live. 
+Attendee,Question,Irfan Fakih (Unverified),10/27/2020 15:08,06f0d2f1-3400-4c6d-bade-1c66eae9b8a1,It is perfect
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:08,fe23f44a-a7d1-429d-91eb-84bc0d26f57f,If you join from linkedin.com it says live event has not started
+Attendee,Response,Anonymous (Unverified),10/27/2020 15:12,fe23f44a-a7d1-429d-91eb-84bc0d26f57f,"Thanks Team, the live event is working now.(If you join from linkedin.com it says live event has not started)"
+Attendee,Question,Steve S (Unverified),10/27/2020 15:08,c79a5e2a-8f8f-4d76-81d4-b5cc2bbe78ab,and the media bar at bottom says live
+Attendee,Question,Abs (Unverified),10/27/2020 15:08,0ee1df11-ed92-4abf-beb6-d2262fe2ca72,Pre-Live is just a state of mind
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:08,5b1952ce-aacc-4604-8894-f62d05604c14,If you join from linkedin.com it says live event has not started
+Attendee,Question,Paul W. (Unverified),10/27/2020 15:08,62e5e27f-aa8c-4a75-9efd-f0b0cd1340b3,"""VSMUG - Who are we and getting involved"" current slide"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:08,a973059f-4b8a-413e-9e1b-2d25093a9b64,Its live
+Attendee,Question,Abs (Unverified),10/27/2020 15:08,9df83df1-d52b-4254-adbd-2c5dd826ae4f,Pre-Live is just a state of mind
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 15:16,9df83df1-d52b-4254-adbd-2c5dd826ae4f,"😎(Abs (Unverified) asked ""Pre-Live is just a state of mind"")"
+Attendee,Question,Steve S (Unverified),10/27/2020 15:08,54bb86fd-51aa-42e4-ad45-66b5e7470f68,the media bar auto hides
+Attendee,Question,Irfan Fakih (Unverified),10/27/2020 15:08,35930cd4-c9ff-44b8-8f6a-040321933f01,Continue please!
+Attendee,Question,Nick (Unverified),10/27/2020 15:08,a9b0f115-c88f-46b7-9695-560e1469725b,When are we starting?
+Attendee,Question,Andrew (Unverified),10/27/2020 15:08,60312359-62aa-4e6f-a151-01bd2fc13f18,I see you moving screens around
+Attendee,Question,CJ S. (Unverified),10/27/2020 15:08,9a28d617-28f6-4758-bdb7-69c99d3262d8,"It's live, I can see the VSMug powerpoint. "
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:08,cc2ddeb9-0c33-436c-91d7-278d6bb08561,If you are a producer then move the present er to live
+Attendee,Question,Yes I have seen since the beginning (Unverified),10/27/2020 15:08,9054910a-97e4-48cc-8969-a6e02d5467a3,see websites
+Attendee,Question,Rojas (Unverified),10/27/2020 15:08,9863a7f1-bdfc-4f86-a553-fef3bd304b1c,i see ppt slide with links
+Attendee,Question,Thomas Marcussen (Unverified),10/27/2020 15:08,8a7d8b9a-8fdd-45f2-9505-6c96304c1364,have the moderator or video producre role click go live
+Attendee,Question,Paul Andrews (Unverified),10/27/2020 15:08,678eff13-ac8a-4858-ae80-4155110f178b,I see the current presentation.
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:09,627feb14-02b2-4e01-825c-9da2d8489c0f,"Hope it is not started yet, or is it not audible to me ?"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:09,73e4bd4a-f3b6-49d0-a548-31783ec5f6c0,"For an environment who is looking to do CMG with tenant attach and convert the clients to HTTPS only, how many total DigiCert certificates are needed? 
+
+Was watching Justin's YouTube videos on PatchMyPC (awesome content btw), but wanted confirmation here. "
+Attendee,Question,Nagaraj Bhat (Unverified),10/27/2020 15:10,d998cd13-abe0-4d35-8403-9c2c15da1879,"Hope it is not started yet, or is it not audible to me ?"
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 15:10,d998cd13-abe0-4d35-8403-9c2c15da1879,"Many people are saying it is live, but some people are saying it is not(Nagaraj Bhat (Unverified) asked ""Hope it is not started yet, or is it not audible to me ?"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,a821f9b8-de0e-419c-ae85-f7b8b5c361e9,confirming can see the new screen. 
+Attendee,Question,Yes I have seen since the beginning (Unverified),10/27/2020 15:10,3d1fbb61-1393-4006-bf31-643079e54250,looks good
+Attendee,Question,Jonathan (Unverified),10/27/2020 15:10,b4d08dd8-65bc-4c8b-a485-7f8da778b4c8,it's live
+Attendee,Question,Thomas Marcussen (Unverified),10/27/2020 15:10,aba02569-63ec-4608-a26d-58afca364f94,Its live here
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,f9f8678d-ee23-46cb-9a6b-bc09093f0dbc,Yes
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,4c5456a2-2e8e-4fdc-87a3-715352d06e0c,See a title slide
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,bca73ef5-8ca1-40de-9d34-23c942dc8201,Yes
+Attendee,Question,Joseph Rose (Unverified),10/27/2020 15:10,002413bf-0bfe-4056-ada2-5fbc19b88d1f,yes
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,ee7478fe-5286-4f07-9c35-2fb5c56c49fe,yes
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,87ee94f5-fcfe-46f8-a10a-e8ac3eb9d998,yes
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,9ff38189-9b5c-4122-8f96-149508e62975,yep
+Attendee,Question,Ben D. (Unverified),10/27/2020 15:10,590f148e-ec30-4cad-a9aa-ca621792cec7,yes
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,27d1d5db-8d45-4c53-9103-eee997cedb8f,Can see your slides for Co-management
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,165fb3ff-89ff-4215-a35f-62227a6de740,yes
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,b7954d30-0945-4b09-aa60-c48265390e86,"Yup, see it here"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,4b3f3c2c-9d54-49c3-8045-39ad78d62ec4,looks good!
+Attendee,Question,It's live for me (Unverified),10/27/2020 15:10,6029226e-d2a2-4d9c-a909-9fb60d8e628a,Yes
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,4679bcd9-0a14-4a48-81a1-ac9c53946aed,I see ppt
+Attendee,Question,Anthony Crotty (Unverified),10/27/2020 15:10,6ce75555-26dc-4452-bd43-b06a27592b50,Yes
+Attendee,Question,yes we see your desktop (Unverified),10/27/2020 15:10,21e4ae68-fc13-4eb5-8bac-a3d39994c6f2,looks good
+Attendee,Question,Aaron (Unverified),10/27/2020 15:10,abd23971-752e-4405-a5ab-4bf35ae5aab1,Go the Powerpoint
+Attendee,Question,Nick W. (Unverified),10/27/2020 15:10,1e7c935e-af50-43fd-b640-808dbc379ec5,Yes!
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,fc8aa22d-ae8b-4182-8c3e-bd48a61f9717,Yes I see it.
+Attendee,Question,Jon (Unverified),10/27/2020 15:10,33a58c4a-2e77-407b-870c-0525cd865bb5,You are live - we can see the powerpoint with black background
+Attendee,Question,Dirk (Unverified),10/27/2020 15:10,bcc69a3b-8dd4-4557-91ec-ba8ee7be422b,Yes
+Attendee,Question,I'm seeing and hearing him just fine (Unverified),10/27/2020 15:10,0010b85c-9f0e-45be-9649-bb6cdbe5762b,Yes
+Attendee,Question,Yes I have seen since the beginning (Unverified),10/27/2020 15:10,a7a1e118-88e9-4f39-a26c-bfb57c6af544,yes see co-mgmt
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,df9cb019-8637-48a1-b10c-a0e56a4c0b3c,yes we can see powerpoint
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,0f8d7257-e268-4dc4-8f87-a5b1c8c4e9b8,we see it
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,236b142a-97f0-466f-95ed-bf9a078ef182,PP is running here
+Attendee,Question,I can see screen and hear Justin Talking. (Unverified),10/27/2020 15:10,e12801fe-849d-41e2-ba42-e4cf1846c1f4,can see co-management tenant attach pp
+Attendee,Question,I've seen everything (Unverified),10/27/2020 15:10,8f2633e9-26e9-4be9-90e6-0f905dbca763,yes
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,666c81a5-4c67-40d5-99ce-8c9a6ec13d87,"Yes, I can see it"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:10,57ff4b68-f836-4bb2-a69d-6a8d268d7a85,Yes see it
+Attendee,Question,Natalie (Unverified),10/27/2020 15:10,8b9707ea-e556-43be-80f9-dfa8c6b98eeb,Yes we see it!
+Attendee,Question,Daniel K (Unverified),10/27/2020 15:10,93486068-dc2c-4b25-8d49-9e48e8c309ca,"We can see, yes"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:11,d5b0a29e-fce4-44c5-afa7-937716ae26ab,yes i can see the ppt
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:11,9c2a56e4-c43c-4def-80e8-4d67be9ced41,average 5 second delay on the screen 
+Attendee,Question,Andrew (Unverified),10/27/2020 15:11,508dba32-4e12-4e5d-aa8e-baa212498d8e,yes
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:11,390f6040-f13a-449e-ba18-2d0b90afb7a2,"Hi Justin, I really appreciate you making your MEM videos and doing all these community events. 
+
+Could I ask you a question about CMG? •	For deploying a CMG, and you want to use EHTTP for the intranet clients, do you also need a HTTPS Software Update Point? Can you just have the public cert on the CMG, and no certs for intranet clients to SUP?"
+Attendee,Question,Andrew (Unverified),10/27/2020 15:11,8d092e71-fd6e-4dee-8c96-0c95b7d8819d,i see it
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:11,d992e569-a3e6-499d-b712-d966f6624f33,I think Pre-Live is what presenters/directors  see before their screen goes live from my experience with Teams live events. 
+Attendee,Question,going live is overrated  (Unverified),10/27/2020 15:11,42ab7323-f1c5-4830-908c-8676f15b9180,can you share the github url in the chat
+Attendee,Question,going live is overrated  (Unverified),10/27/2020 15:11,5f6e95f2-5864-40dc-a09c-595cf2426ff6,can you share the github url in the chat
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 15:12,5f6e95f2-5864-40dc-a09c-595cf2426ff6,"https://vsmug.com/github(going live is overrated  (Unverified) asked ""can you share the github url in the chat"")"
+Attendee,Question,Nick W. (Unverified),10/27/2020 15:12,9407bb49-c3e7-4d48-abfa-ec594cde366f,"I have Co-management set up in config mgr, and a test group of users in intune. I think a big goal of mine is to auto enroll everyone else into intune, instead of manually adding users."
+Attendee,Question,Markus (Unverified),10/27/2020 15:12,8cb39031-a888-433c-a9b6-e78c183cae8a,"please adjust your eq settings. the ""s"" sounds are extreme"
+Attendee,Question (Archived),Harjit (Unverified),10/27/2020 15:14,833131cc-6f51-49cb-882e-99a54c296d1f,Justin you are Live and presenting
+Attendee,Question (Archived),Anonymous (Unverified),10/27/2020 15:14,5c9f91cf-2471-4e8b-86e5-b964f4d71390,It looks great on my end. Can see the powerpoint. 
+Attendee,Question (Archived),Anonymous (Unverified),10/27/2020 15:14,777ba28a-570c-44bd-95bc-f3f9daca72de,You've been live all the time...
+Attendee,Question,Nick (Unverified),10/27/2020 15:14,f310aef2-9abb-445c-ac06-32c50885a792,we can see you
+Attendee,Question,Nagaraj Bhat (Unverified),10/27/2020 15:14,79ca7d65-301b-43a3-883e-55e229beca03,You are presenting 
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:14,7795db17-e050-43a5-b5b6-55c44afa0aa6,Is it just me or anyone else hearing voice distorted at times?
+Attendee,Question,Nagaraj Bhat (Unverified),10/27/2020 15:14,0304eafd-70b0-4c32-93d7-2655aa769e4c,I can see 
+Attendee,Question,Nick (Unverified),10/27/2020 15:15,940449d0-ae98-4753-ab7a-03093b51682b,and hear everything
+Attendee,Question,Somesh (Unverified),10/27/2020 15:15,e58875e2-55f1-470a-9bf1-9bc38fa8d95c,We have started our journey towards co-mngmt and will be moving all the existing endpoints from ConfigMgr managed to Co-Managed. But there is always a confusion should be touch upon tenant attch our directly jump to comgmt
+Attendee,Question,Joseph (Unverified),10/27/2020 15:15,431cb290-6dba-4a6b-a194-43f39655a693,"And yes, some intro music would be good :)"
+Attendee,Question (Archived),Nagaraj Bhat (Unverified),10/27/2020 15:15,f44c1057-43e4-4d4c-ad91-0fc4b3fcc2a0,"Hope it is not started yet, or is it not audible to me ?"
+Attendee,Question,Nick W. (Unverified),10/27/2020 15:15,018758b3-637a-4498-a64f-d8a68009ee4b,"I have Co-management set up in config mgr, and a test group of users in intune. I think a big goal of mine is to auto enroll everyone else into intune, instead of manually adding users."
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 15:21,018758b3-637a-4498-a64f-d8a68009ee4b,"you can do this(Nick W. (Unverified) asked ""I have Co-management set up in config mgr, and a test group of users in intune. I think a big goal of mine is to auto enroll everyone else into intune, instead of manually adding users."")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:15,17bd3b5d-3c3f-4ebe-bf0c-f774b2017101,all good - say to press play.... somehow it was paused while this started
+Attendee,Question,Nick (Unverified),10/27/2020 15:16,92abecf0-32df-4906-9e7c-dee62aebfdf7,blame Microsoft for everything :)
+Attendee,Question (Archived),Nick (Unverified),10/27/2020 15:16,fb63811a-7b89-4256-8557-59d4ae1decbd,and hear everything
+Attendee,Question,Somesh (Unverified),10/27/2020 15:16,a4fe3740-5365-4e31-b8ed-52c211896343,We have started our journey towards co-mngmt and will be moving all the existing endpoints from ConfigMgr managed to Co-Managed. But there is always a confusion should be touch upon tenant attch our directly jump to comgmt
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 15:16,a4fe3740-5365-4e31-b8ed-52c211896343,"They are very different things. My recommendation is to implement both(Somesh (Unverified) asked ""We have started our journey towards co-mngmt and will be moving all the existing endpoints from ConfigMgr managed to Co-Managed. But there is always a confusion should be touch upon tenant attch our directly jump to comgmt"")"
+Attendee,Question (Archived),Nick (Unverified),10/27/2020 15:16,6ffe3be1-9f56-443e-8d4a-6e19dc9f2da7,blame Microsoft for everything :)
+Attendee,Question (Archived),Matt Page (Unverified),10/27/2020 15:16,9f303ba3-7422-4843-a1f1-6ae2205b8c29,"Hi Justin, I really appreciate you making your MEM videos and doing all these community events. 
+
+Could I ask you a question about CMG? •	For deploying a CMG, and you want to use EHTTP for the intranet clients, do you also need a HTTPS Software Update Point? Can you just have the public cert on the CMG, and no certs for intranet clients to SUP?"
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:16,c6e5d193-c8a2-4bf8-9b96-bb226f236433,"Hi Justin, I really appreciate you making your MEM videos. Could I ask you a question about CMG?
+
+•	For deploying a CMG, and you want to use EHTTP for the intranet clients, do you also need a HTTPS Software Update Point? Can you just have the public cert on the CMG, and no certs for intranet clients to SUP?"
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 15:19,c6e5d193-c8a2-4bf8-9b96-bb226f236433,"SUP can work as HTTP via CMG proxy(Matt Page (Unverified) asked ""Hi Justin, I really appreciate you making your MEM videos. Could I ask you a question about CMG?
+
+•	For deploying a CMG, and you want to use EHTTP for the intranet clients, do you also need a HTTPS Software Update Point? Can you just have the public cert on the CMG, and no certs for intranet clients to SUP?"")"
+Attendee,Question,Somesh (Unverified),10/27/2020 15:16,d3cf9b89-cd7f-4110-a2bb-3a176afbee78,What is basic difference between tenant attach and co-mgmt and which will be more  beneficial for business
+Attendee,Question,Dan Olson (Unverified),10/27/2020 15:17,0b5ea4b6-29e1-48ae-9f47-a0337d011004,"Can you ""Factory REset"" on a device that has already been imaged with ConfigMgr?  "
+Attendee,Question,Kacper Pudlik (Unverified),10/27/2020 15:17,763baf2b-c0a5-4706-ae00-2b11df781666,Could this slides be shared afterwards ? 
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 15:18,763baf2b-c0a5-4706-ae00-2b11df781666,"Slides are up vsmug.com/github(Kacper Pudlik (Unverified) asked ""Could this slides be shared afterwards ? "")"
+Attendee,Question,Somesh (Unverified),10/27/2020 15:18,8ac38ec6-c7f6-45ac-b2b1-b5f0d5c35091,What is basic difference between tenant attach and co-mgmt and which will be more  beneficial for business
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 15:19,8ac38ec6-c7f6-45ac-b2b1-b5f0d5c35091,"co-mgmt manages devices via either CM or Intune depending on how you flip the workloads. Tenant attach attaches your CM instance to the cloud. This should become clear in the presentation today(Somesh (Unverified) asked ""What is basic difference between tenant attach and co-mgmt and which will be more  beneficial for business"")"
+Attendee,Question,Dan Olson (Unverified),10/27/2020 15:18,e98c3b39-e310-4c90-bc25-0ef0c5beee12,"Can you ""Factory REset"" on a device that has already been imaged with ConfigMgr?  "
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 15:20,e98c3b39-e310-4c90-bc25-0ef0c5beee12,"once you co-man the deviced you can wipe or fresh start the device even if built with CM(Dan Olson (Unverified) asked ""Can you ""Factory REset"" on a device that has already been imaged with ConfigMgr?  "")"
+Attendee,Question,Nagaraj Bhat (Unverified),10/27/2020 15:18,9781c259-0058-48bc-af4f-7779335031d3,"Yes, I can se "
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:18,aeae8ce7-f465-4acd-9fb8-cda02ccae1bf,Can you up your mics input volume? you keep dropping off the pickup range for me at least
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 15:18,aeae8ce7-f465-4acd-9fb8-cda02ccae1bf,"Seems okay for me, any others having issues?(Can you up your mics input volume? you keep dropping off the pickup range for me at least)"
+Attendee,Question,Kacper Pudlik (Unverified),10/27/2020 15:18,47f644cc-0964-455e-ad75-df2c3253f0a5,Could this slides be shared afterwards ? 
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 15:19,47f644cc-0964-455e-ad75-df2c3253f0a5,"vsmug.com/github they are live now.(Kacper Pudlik (Unverified) asked ""Could this slides be shared afterwards ? "")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:18,1500a367-49e8-4d98-a2cf-14103f4f4b80,Can you up your mics input volume? you keep dropping off the pickup range for me at least
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 15:23,1500a367-49e8-4d98-a2cf-14103f4f4b80,"Seems good for me, any others seeing issues?(Can you up your mics input volume? you keep dropping off the pickup range for me at least)"
+Attendee,Question,Gaurav (Unverified),10/27/2020 15:19,f79e1f1e-af9a-42c1-9b62-06aea4daf9b5,Is there a process to join device to Azure AD  without intune -Conditional Access policy .
+Attendee,Question,Gaurav (Unverified),10/27/2020 15:19,21b0ce66-8d32-40e4-809a-f32f6e9a2b18,Is there a process to join device to Azure AD  without intune -Conditional Access policy .
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 15:22,21b0ce66-8d32-40e4-809a-f32f6e9a2b18,"Not sure what you mean here(Gaurav (Unverified) asked ""Is there a process to join device to Azure AD  without intune -Conditional Access policy ."")"
+Attendee,Question,Somesh (Unverified),10/27/2020 15:23,91d1ef60-dbee-4225-a5a1-3c0abe0c39e9,"An autopilot device can be easily wiped to OEM state OS using freshstart, is it possible to do so on comanaged devices(which are imaged using SCCM) without a USB with OS image?"
+Attendee,Question,Somesh (Unverified),10/27/2020 15:23,7c52cbd4-a4af-4454-bb61-1ff4332c191b,"An autopilot device can be easily wiped to OEM state OS using freshstart, is it possible to do so on comanaged devices(which are imaged using SCCM) without a USB with OS image?"
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 15:24,7c52cbd4-a4af-4454-bb61-1ff4332c191b,"when co-managed you get the option to fresh start a device(Somesh (Unverified) asked ""An autopilot device can be easily wiped to OEM state OS using freshstart, is it possible to do so on comanaged devices(which are imaged using SCCM) without a USB with OS image?"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:24,18f9f487-5234-428f-930e-d7b28f34ec3c,can you please talk  about co-Management licensing 
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:24,03a7175b-4eb4-44c8-b3b2-8521fa71b53d,Is Azure AD Premium required for co-management? (It seems like it is for auto enrollment)?
+Attendee,Question,Robert Gowdey (Unverified),10/27/2020 15:24,6ea2e0ff-471a-4f82-a837-cc129fb8ae51,Everything  is perfect for me.
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:25,b11c3cec-bf11-4c44-a6a1-97cae5ba9034,Ben's volume does go up and down at times.
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:25,2ba0a60a-f22f-4453-a99e-72c53222d6df,Is Azure AD Premium required for co-management? (It seems like it is for auto enrollment)?
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 15:51,2ba0a60a-f22f-4453-a99e-72c53222d6df,You need it for Compliance based Conditional Access(Is Azure AD Premium required for co-management? (It seems like it is for auto enrollment)?)
+Attendee,Question,Samba Tamo (Unverified),10/27/2020 15:25,a8253561-5c8c-4049-94cd-6d045cbc12ce,How to enable co-mgmt?
+Attendee,Question,Aaron (Unverified),10/27/2020 15:26,db0009fd-6835-4560-8cfc-1b4b25be2e65,"Just wanted to make a note that if you use the AAD Connect tool, make sure to include the OU the devices are in as selecting devices individually for testing will not work. I had a ticket open with MS on this for several weeks. "
+Moderator,Announcement,Justin Chalfant (justin@patchmypc.com),10/27/2020 15:26,b56c9541-10c3-4f36-9eb8-4c4c1bad30eb,Reminder: Please open the survey for this months session at https://vsmug.com/feedback 🙏 and submit it at the end of the session
+Attendee,Question,Aaron (Unverified),10/27/2020 15:26,9d6d59c0-7137-4f6a-9691-f0f37aa1053c,"Just wanted to make a note that if you use the AAD Connect tool, make sure to include the OU the devices are in as selecting devices individually for testing will not work. I had a ticket open with MS on this for several weeks. "
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:26,af6e4d3d-6459-49da-9484-a5b246efdc5f,audio dropped?
+Attendee,Response,Anonymous (Unverified),10/27/2020 15:26,af6e4d3d-6459-49da-9484-a5b246efdc5f,nvm(audio dropped?)
+Attendee,Question,Steve S (Unverified),10/27/2020 15:26,c0a009df-d453-490b-9265-2b8496464d1d,"If you have an active process that deletes stale computer objects be sure to protect the computer object ""AZUREADSSOACC"""
+Attendee,Question (Archived),Anonymous (Unverified),10/27/2020 15:26,23eec902-37a2-4cb8-893a-147e3b47c1d7,audio dropped?
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:26,8b349176-2223-4c42-b168-b3d144632b4c,can you please talk  about co-Management licensing 
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 15:27,8b349176-2223-4c42-b168-b3d144632b4c,Just covered by Ben(can you please talk  about co-Management licensing )
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 15:27,8b349176-2223-4c42-b168-b3d144632b4c,Azure Premium and Intune licence required(can you please talk  about co-Management licensing )
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:26,f17b88d2-e33c-4c39-b9bc-7820348e586f,Ben's volume does go up and down at times.
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 15:52,f17b88d2-e33c-4c39-b9bc-7820348e586f,"Sorry, it may have been the speed at which I was talking :)(Ben's volume does go up and down at times.)"
+Attendee,Question,Steve S (Unverified),10/27/2020 15:27,f6b9af93-a5ef-4d99-abb0-fda1b4313fc7,"If you have an active process that deletes stale computer objects be sure to protect the computer object ""AZUREADSSOACC"""
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 15:28,f6b9af93-a5ef-4d99-abb0-fda1b4313fc7,"Thanks for the tip!(Steve S (Unverified) asked ""If you have an active process that deletes stale computer objects be sure to protect the computer object ""AZUREADSSOACC"""")"
+Attendee,Question,Nick (Unverified),10/27/2020 15:27,103d1620-6316-48c7-aa70-5810b673e362,I have seen instances where Hybrid Joined machines are in a pending state in AAD. Has anyone come up with a way of dealing with these machines automatically as apposed to de-reigstering them manually?
+Attendee,Question,Nick (Unverified),10/27/2020 15:27,cf603a21-3b5a-417d-aeb0-cde292f19d86,I have seen instances where Hybrid Joined machines are in a pending state in AAD. Has anyone come up with a way of dealing with these machines automatically as apposed to de-reigstering them manually?
+Attendee,Question,k (Unverified),10/27/2020 15:28,af285670-93ab-40fe-a82c-9a55e611f688,i think you no need a intune license if you use sccm and have sccm license??
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:28,c8aabb45-f9f9-431f-b286-0a45cd6e0562,We have most of our devices enrolled in Co-Management. A few remaining devices are actively checking into SCCM but they won't complete the enrollment for co-management. Is there a way to force enrollment on the client itself?
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:28,ff1daefa-a0b0-429e-bc0c-33067d5b2433,We have most of our devices enrolled in Co-Management. A few remaining devices are actively checking into SCCM but they won't complete the enrollment for co-management. Is there a way to force enrollment on the client itself?
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 15:53,ff1daefa-a0b0-429e-bc0c-33067d5b2433,"Does comanagementhandler.log give any clue?
+Can the devices reach the required endpoints?(We have most of our devices enrolled in Co-Management. A few remaining devices are actively checking into SCCM but they won't complete the enrollment for co-management. Is there a way to force enrollment on the client itself?)"
+Attendee,Question,Tobias (Unverified),10/27/2020 15:28,0f78ada5-26f7-4242-9774-051aaa27df4b,"I dont think this is the right place to ask but maybe someone has an idea: We deployed co-management via the sccm co-management settings
+
+https://imgur.com/a/ZfHR6of (here is also the log file of an example device NB2195), it doesn't report an error in CoManagementHandler.log
+
+About a fifth of our devices don't get the message that their workloads should be managed by Intune..
+
+Here are two examples, NB2168 works correctly and NB2195 doesn't https://imgur.com/a/bBFF1IB"
+Attendee,Response,Tobias (Unverified),10/27/2020 15:58,0f78ada5-26f7-4242-9774-051aaa27df4b,"version 2006(Tobias (Unverified) asked ""I dont think this is the right place to ask but maybe someone has an idea: We deployed co-management via the sccm co-management settings
+
+https://imgur.com/a/ZfHR6of (here is also the log file of an example device NB2195), it doesn't report an error in CoManagementHandler.log
+
+About a fifth of our devices don't get the message that their workloads should be managed by Intune..
+
+Here are two examples, NB2168 works correctly and NB2195 doesn't https://imgur.com/a/bBFF1IB"")"
+Attendee,Question,k (Unverified),10/27/2020 15:29,70f9e425-e969-4978-b0c1-61cbad8ca4a2,i think you no need a intune license if you use sccm and have sccm license??
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 15:29,70f9e425-e969-4978-b0c1-61cbad8ca4a2,"yes you are licenced for Intune if you have SCCM. You will still need an Azure Premium licence for auto enrollment(k (Unverified) asked ""i think you no need a intune license if you use sccm and have sccm license??"")"
+Attendee,Question,Tobias (Unverified),10/27/2020 15:29,8ddc7b17-3388-4273-b427-93de8f036e98,"I dont think this is the right place to ask but maybe someone has an idea: We deployed co-management via the sccm co-management settings
+
+https://imgur.com/a/ZfHR6of (here is also the log file of an example device NB2195), it doesn't report an error in CoManagementHandler.log
+
+About a fifth of our devices don't get the message that their workloads should be managed by Intune..
+
+Here are two examples, NB2168 works correctly and NB2195 doesn't https://imgur.com/a/bBFF1IB"
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 15:53,8ddc7b17-3388-4273-b427-93de8f036e98,"What version ConfigMgr are you using Tobias?(Tobias (Unverified) asked ""I dont think this is the right place to ask but maybe someone has an idea: We deployed co-management via the sccm co-management settings
+
+https://imgur.com/a/ZfHR6of (here is also the log file of an example device NB2195), it doesn't report an error in CoManagementHandler.log
+
+About a fifth of our devices don't get the message that their workloads should be managed by Intune..
+
+Here are two examples, NB2168 works correctly and NB2195 doesn't https://imgur.com/a/bBFF1IB"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:29,d11b3d12-ed0a-4694-b978-5f409668a28a,"Just to confirm, this only works on windows 10 clients, not anything below, correct?"
+Attendee,Question,Steve S (Unverified),10/27/2020 15:29,7a7fe27f-474c-4473-b60b-18d83cd60598,@Nick we just went through that.  Make sure the azure connect is importing the OU with those objects and check the azuressoacc object
+Attendee,Question,Kacper Pudlik (Unverified),10/27/2020 15:29,7ace4e18-b94c-4261-bcd2-5ade33dd1328,For the actions from the company portal - wipe / factory reset etc. Is there a way to block it? If the user factory reset... and you don't have an autopilot to pick this up. What would be the way forward? Sorry if I am mixing things.
+Attendee,Question,Steve S (Unverified),10/27/2020 15:30,4c1a7c73-ba71-4520-a6b5-7f268d25bb36,If your devices are not 1703 or newer you will struggle with the hybrid join most likely
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:31,2aa54de6-6215-4227-a1df-256e662faae8,"Just to confirm, this only works on windows 10 clients, not anything below, correct?"
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 15:31,2aa54de6-6215-4227-a1df-256e662faae8,"Windows 10 only(Just to confirm, this only works on windows 10 clients, not anything below, correct?)"
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 15:53,2aa54de6-6215-4227-a1df-256e662faae8,"Exactly 1709+(Just to confirm, this only works on windows 10 clients, not anything below, correct?)"
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:31,ad78ebe5-8bac-4464-af0d-c234f8bc65b0,"Hi Ben, your blog and videos have been great! I have been trying to move the Windows Update workload to Intune, but it looks like I ran into a similar issue where old GPOs are preventing updates. 
+Did you find you needed to change any other settings besides the Automatic Updates->Disabled setting back to Not Configured? What about the Intranet Source Location that Config Manager sets via local policy? I can’t get rid of these settings, looks like CM is setting it."
+Attendee,Question,Steve S (Unverified),10/27/2020 15:31,0433b32a-18ab-4231-b18b-09933e14df4b,@Nick we just went through that.  Make sure the azure connect is importing the OU with those objects and check the azuressoacc object
+Attendee,Question,Kacper Pudlik (Unverified),10/27/2020 15:31,06f22eb6-9bed-4124-9c05-73b7a80bceff,For the actions from the company portal - wipe / factory reset etc. Is there a way to block it? If the user factory reset... and you don't have an autopilot to pick this up. What would be the way forward? Sorry if I am mixing things.
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:31,f2826d88-9dd4-48a4-9fe7-209e4a0e5482,"Hi Ben, your blog and videos have been great! I have been trying to move the Windows Update workload to Intune, but it looks like I ran into a similar issue where old GPOs are preventing updates. 
+Did you find you needed to change any other settings besides the Automatic Updates->Disabled setting back to Not Configured? What about the Intranet Source Location that Config Manager sets via local policy? I can’t get rid of these settings, looks like CM is setting it."
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 15:55,f2826d88-9dd4-48a4-9fe7-209e4a0e5482,"Intune Policies create blocking CSPs for all other important WU settings except for ""Disable Automatic Updates"". I havent come across an issue with the setting you mentioned above(Matt Page (Unverified) asked ""Hi Ben, your blog and videos have been great! I have been trying to move the Windows Update workload to Intune, but it looks like I ran into a similar issue where old GPOs are preventing updates. 
+Did you find you needed to change any other settings besides the Automatic Updates->Disabled setting back to Not Configured? What about the Intranet Source Location that Config Manager sets via local policy? I can’t get rid of these settings, looks like CM is setting it."")"
+Attendee,Question,Steve S (Unverified),10/27/2020 15:31,657fc2bd-55ee-43fb-bedd-ce155d1e4236,If your devices are not 1703 or newer you will struggle with the hybrid join most likely
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 15:56,657fc2bd-55ee-43fb-bedd-ce155d1e4236,"Yes, stick with supported OS :)(Steve S (Unverified) asked ""If your devices are not 1703 or newer you will struggle with the hybrid join most likely"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:31,1b40a1b7-f913-49ba-b1d1-b89fb17984be,So I sholdnt have an enable enrollment GPO to set to on as well as enable auto enrollment in configmgr?
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:32,abe577b3-3942-46f7-9220-94513b683c8e,"@Steve S. - What happens if it gets deleted? I don't see it in my AD, and we do have a process to delete old AD computer objects."
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:32,e4c60aca-0423-4b5c-829c-d9bd9b6f89e5,So I sholdnt have an enable enrollment GPO to set to on as well as enable auto enrollment in configmgr?
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 15:56,e4c60aca-0423-4b5c-829c-d9bd9b6f89e5,"Correct, you dont need to set a GPO, ConfigMgr will enroll the device using the AADDevice Token(So I sholdnt have an enable enrollment GPO to set to on as well as enable auto enrollment in configmgr?)"
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:32,da6d6cb6-3db3-4716-b682-04af46d24df1,"@Steve S. - What happens if it gets deleted? I don't see it in my AD, and we do have a process to delete old AD computer objects."
+Attendee,Question,Steve S (Unverified),10/27/2020 15:32,4d58bbba-371d-436b-9c13-88485eb59560,Another avenue to check if not enrolling is check the scheduled tasks in \Microsoft\Windows\Workplace Join and enable if disabled
+Attendee,Question,Steve S (Unverified),10/27/2020 15:32,a1d29eba-10aa-4932-b8e7-8033fdae3dc9,Another avenue to check if not enrolling is check the scheduled tasks in \Microsoft\Windows\Workplace Join and enable if disabled
+Attendee,Question,Steve S (Unverified),10/27/2020 15:33,fdc3a297-e49d-4e63-973a-6f3b7737c078,@Matt Page It stops syncing.  You need to rerun the azure connect wizzard on your connect machine
+Attendee,Question,Steve S (Unverified),10/27/2020 15:33,1b4b99dd-984b-4496-bf5c-bcd93a8f9185,@Matt Page It stops syncing.  You need to rerun the azure connect wizzard on your connect machine
+Attendee,Question,Mattias (Unverified),10/27/2020 15:33,a3445b76-ab70-412c-b12c-d8ccfe572c95,"TIP: While enabling Co-Management, be sure to do it in staged rings, and not all devices in one time. Move workloads as Intune is ready to take over."
+Attendee,Question,John (Unverified),10/27/2020 15:33,b8614cfe-74f0-4dbf-9df3-8a2681674a3f,Why not select All for Intune enrollment
+Attendee,Question,John (Unverified),10/27/2020 15:34,bbb6001c-b446-423b-89b2-5a08ce0812a2,Why not select All for Intune enrollment
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 15:57,bbb6001c-b446-423b-89b2-5a08ce0812a2,"Its perfectly acceptable to do this(John (Unverified) asked ""Why not select All for Intune enrollment"")"
+Attendee,Question,Mattias (Unverified),10/27/2020 15:34,3f9312a0-f47b-4184-add6-8a85f8dd32a9,"TIP: While enabling Co-Management, be sure to do it in staged rings, and not all devices in one time. Move workloads as Intune is ready to take over."
+Attendee,Question,Steve S (Unverified),10/27/2020 15:34,6339d581-78c5-4524-8d17-ccad2779528e,Setup a monitor to notify you when that object gets deleted to save yourself troubleshooting headaches
+Attendee,Question,Jon (Unverified),10/27/2020 15:34,b2acb21e-6f42-4c25-9b09-2735b1032700,what is the difference between the autoenrollment and the upload devices from MECM?
+Attendee,Question,Steve S (Unverified),10/27/2020 15:34,aaf58ad4-377d-41b2-9b8c-c0bdd3cb4fe8,Setup a monitor to notify you when that object gets deleted to save yourself troubleshooting headaches
+Attendee,Question,Jon (Unverified),10/27/2020 15:34,8ebee63e-b3aa-4fcb-bdc3-8c53fa966fee,what is the difference between the autoenrollment and the upload devices from MECM?
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 15:58,8ebee63e-b3aa-4fcb-bdc3-8c53fa966fee,"Autoenrollment enrolls the device to Intune so it can be fully managed from the Cloud, Device upload (Tenant Attach) lists your devices in the MEM Admin Centre (useful for basic helpdesk tasks)(Jon (Unverified) asked ""what is the difference between the autoenrollment and the upload devices from MECM?"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:35,346cf36d-be3d-4057-b489-63ecfb1a14b6,Co-Mgmnt Enrollment - Are there any known kwerks deploying hybrid via AutoPilot AND deployment co-management with CM?
+Attendee,Question,Jeff K. (Unverified),10/27/2020 15:35,99021802-998a-420a-b0a1-255a66c61ec8,Can enrollment happen with CMG connected devices? or what happens with remote clients?
+Attendee,Question,Steve S (Unverified),10/27/2020 15:35,2018e7d8-c6ea-4859-a167-a50c3a42dd73,@Mattias What workloads you find best to be SCCM managed and what to be intune managed?
+Attendee,Question,Steve S (Unverified),10/27/2020 15:35,ed18b980-d2ab-4519-b135-6babb9945839,@Mattias What workloads you find best to be SCCM managed and what to be intune managed?
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 15:58,ed18b980-d2ab-4519-b135-6babb9945839,"Client Apps and Compliance Policies should be the first workloads you move :)(Steve S (Unverified) asked ""@Mattias What workloads you find best to be SCCM managed and what to be intune managed?"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:36,2c176bf6-70bc-476c-a324-8098c3415433,is this event being recorded?
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 15:37,2c176bf6-70bc-476c-a324-8098c3415433,Yes(is this event being recorded?)
+Attendee,Question,Jeff K. (Unverified),10/27/2020 15:36,03096d76-95fc-4238-b2ea-2efa0e6a2a36,Can enrollment happen with CMG connected devices? or what happens with remote clients?
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:36,1b7c9d74-4d7f-4b73-8d69-7dc01d51f351,Co-Mgmnt Enrollment - Are there any known kwerks deploying hybrid via AutoPilot AND deployment co-management with CM?
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 15:38,1b7c9d74-4d7f-4b73-8d69-7dc01d51f351,Not tested this scenario. Would be good to know if anyone else has(Co-Mgmnt Enrollment - Are there any known kwerks deploying hybrid via AutoPilot AND deployment co-management with CM?)
+Attendee,Question,Nick W. (Unverified),10/27/2020 15:36,3882626a-2f5e-4b58-94e9-004dee2a8a94,"That second tab in co-mangement is what i was missing, threw my IT dept computers in there and they show up in intune now!"
+Attendee,Question,Michael (Unverified),10/27/2020 15:37,133856dd-890e-4bda-b4ee-c116988e152c,We're seeing machines taking about 24 hours after been added to our pilot collection in SCCM to get enrolled in Intune. That's even after running a machine policy update. 
+Attendee,Question,Nick W. (Unverified),10/27/2020 15:37,67cca912-e12d-4e1f-b9af-29aaf1f3e6f1,"That second tab in co-mangement is what i was missing, threw my IT dept computers in there and they show up in intune now!"
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 15:59,67cca912-e12d-4e1f-b9af-29aaf1f3e6f1,"I think many have done this too :)(Nick W. (Unverified) asked ""That second tab in co-mangement is what i was missing, threw my IT dept computers in there and they show up in intune now!"")"
+Attendee,Question,Michael (Unverified),10/27/2020 15:37,e4a31c35-54ee-43ae-9c96-a67f496f5ae6,We're seeing machines taking about 24 hours after been added to our pilot collection in SCCM to get enrolled in Intune. That's even after running a machine policy update. 
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 15:59,e4a31c35-54ee-43ae-9c96-a67f496f5ae6,"The enrollment times are staggered over several days if you are auto enrolling a large number of clients at a time(Michael (Unverified) asked ""We're seeing machines taking about 24 hours after been added to our pilot collection in SCCM to get enrolled in Intune. That's even after running a machine policy update. "")"
+Attendee,Question,Mattias (Unverified),10/27/2020 15:38,48022596-873d-41fe-9752-6ed5d1594d43,@steven I recommend to take the low hanging fruits first. 
+Attendee,Response,Mattias (Unverified),10/27/2020 15:38,48022596-873d-41fe-9752-6ed5d1594d43,"Compliance policies, Device Configurations.
+
+works with both configMgr and intune at the same time.(Mattias (Unverified) asked ""@steven I recommend to take the low hanging fruits first. "")"
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:38,1c8efdb5-62d4-47f6-b174-5c85092f6ff3,Can't believe there is another Matt Page here! Hello to you sir! :D
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:39,39e52a9d-5f7d-4dc5-92ff-5b503cde4787,Can't believe there is another Matt Page here! Hello to you sir! :D
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 15:59,39e52a9d-5f7d-4dc5-92ff-5b503cde4787,"lol(Matt Page (Unverified) asked ""Can't believe there is another Matt Page here! Hello to you sir! :D"")"
+Attendee,Question,Mattias (Unverified),10/27/2020 15:39,20db8a65-d8b3-4706-82e8-87c39790ff40,@steven I recommend to take the low hanging fruits first. 
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:41,b51aa2c4-3507-422d-926b-f1e91eca63a6,@Tobias - Maybe the device is not enrolled into Intune/not Azure AD Joined & MDM Managed? Is there a difference between the two devices?
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:41,fd48e553-5d9b-4ad2-95e6-586b04baeff4,@Tobias - Maybe the device is not enrolled into Intune/not Azure AD Joined & MDM Managed? Is there a difference between the two devices?
+Attendee,Question,Tobias (Unverified),10/27/2020 15:43,fde88704-96a1-426e-bd86-8cac9387ec1f,@Matt they are both joined to intune. they are in the same configmgr collections.. should nothing be different but there has to be something. in the second imgur link you can see both devices in intune
+Attendee,Question,Tobias (Unverified),10/27/2020 15:43,e54b6752-422d-4f76-8b50-63b242fe9361,@Matt they are both joined to intune. they are in the same configmgr collections.. should nothing be different but there has to be something. in the second imgur link you can see both devices in intune
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:43,b18cd074-8cff-4a94-9d88-e3c837bd6a3d,"@Jon - Autoenrollment gets the device enrolled into Intune (Azure AD Joined, MDM Managed), while the Upload Devices is affiliated with Tenant Attach so your Config Manager clients get uploaded to the Microsoft Endpoint Manager Admin Center."
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:43,9da0cd5a-b566-4c71-b86b-24bc2f4d99c4,"@Jon - Autoenrollment gets the device enrolled into Intune (Azure AD Joined, MDM Managed), while the Upload Devices is affiliated with Tenant Attach so your Config Manager clients get uploaded to the Microsoft Endpoint Manager Admin Center."
+Attendee,Question,Somesh (Unverified),10/27/2020 15:43,8e065cc2-680b-4e60-8981-c644bdc90789,what are the best practices for managing workloads in production environment? should all be moved or how should be it assessed?
+Attendee,Question,Somesh (Unverified),10/27/2020 15:43,a9eac28a-c720-4081-b31c-6287d8712a20,what are the best practices for managing workloads in production environment? should all be moved or how should be it assessed?
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:44,edeb84af-9bc3-4c61-812a-5cc9050c6120,"@Matt Page haha yes and both interested in MEM! From Colorado USA, currently in Turkey."
+Moderator,Announcement,Justin Chalfant (justin@patchmypc.com),10/27/2020 15:44,13df9ab3-6b61-465f-b35f-8ac04550859b,Slides and examle scripts available at vsmug.com/github
+Attendee,Question,Nick (Unverified),10/27/2020 15:45,b3d1ba83-66e2-4c9c-81cd-f626e4543886,has anyone been able to get Windows 7 to use CMG?
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:45,d069dfb6-a83e-45de-b774-0e825df201f7,"@Matt Page haha yes and both interested in MEM! From Colorado USA, currently in Turkey."
+Attendee,Question,Nick (Unverified),10/27/2020 15:45,71accd2f-4abe-4ce7-a6ea-de5ee6fd18c4,has anyone been able to get Windows 7 to use CMG?
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:15,71accd2f-4abe-4ce7-a6ea-de5ee6fd18c4,"I haven't tried it but I know you can(Nick (Unverified) asked ""has anyone been able to get Windows 7 to use CMG?"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:45,5b53d050-1181-4574-8c94-08a9865730ce,We've made a compliance looking for secure boot being enabled. Any ideas to automize a process for enabling secure boot for the non-compliant devices?
+Attendee,Question,Matt M (Unverified),10/27/2020 15:46,7dc81f4b-2cd5-4a4c-a2a3-b91b82e52143,"For an environment who is looking to do CMG with tenant attach and convert the clients to HTTPS only, how many total DigiCert certificates are needed? Was watching Justin's YouTube videos on PatchMyPC (awesome content btw), but wanted confirmation here."
+Attendee,Question,uptocloud.uk (Unverified),10/27/2020 15:46,8d3b05c6-8890-40b5-8e34-8ec13f1ffd07,Why Intune Encryption Policy doesn't work on Hybrid-AD envoirment ? (force users to set a PIN for encryption)
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:46,56081ce4-f684-44c2-a28a-aae41f9e350a,@Matt Page - Awesome! I'm in the UK! Great name!
+Attendee,Question,C (Unverified),10/27/2020 15:47,0fdf4801-84be-4da7-a0bc-76993fdfc70e,"What is the difference between Azure AD Registered, and Hybrid Azure AD joined? "
+Attendee,Question,C (Unverified),10/27/2020 15:47,960facb4-b538-404c-a6ab-aa0d55713e60,"What is the difference between Azure AD Registered, and Hybrid Azure AD joined? "
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 16:00,960facb4-b538-404c-a6ab-aa0d55713e60,"They are the same thing as far as a WIndows 10 device is concerned(C (Unverified) asked ""What is the difference between Azure AD Registered, and Hybrid Azure AD joined? "")"
+Attendee,Question,Matt Page (Unverified),10/27/2020 15:47,eeb492d7-967f-49d1-8216-ee61cfe49b25,@Matt Page - Awesome! I'm in the UK! Great name!
+Attendee,Question,uptocloud.uk (Unverified),10/27/2020 15:47,a4a64439-2500-4e6b-a262-abb532d2444e,Why Intune Encryption Policy doesn't work on Hybrid-AD envoirment ? (force users to set a PIN for encryption)
+Attendee,Question,Matt M (Unverified),10/27/2020 15:47,5758de61-c234-4d18-9a5c-55ac5fb23332,"For an environment who is looking to do CMG with tenant attach and convert the clients to HTTPS only, how many total DigiCert certificates are needed? Was watching Justin's YouTube videos on PatchMyPC (awesome content btw), but wanted confirmation here."
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:17,5758de61-c234-4d18-9a5c-55ac5fb23332,"You need a IIS server cert for SCCM site server, a DP auth cert (not for CMG but fot any clients internally which are using HTTPS), a client auth cert. All these are from your internal PKI. You will then need an external cert from DigiCert for the CMG(Matt M (Unverified) asked ""For an environment who is looking to do CMG with tenant attach and convert the clients to HTTPS only, how many total DigiCert certificates are needed? Was watching Justin's YouTube videos on PatchMyPC (awesome content btw), but wanted confirmation here."")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:47,3463054c-0563-4d03-9a76-eee75e70c8fd,We've made a compliance looking for secure boot being enabled. Any ideas to automize a process for enabling secure boot for the non-compliant devices?
+Attendee,Question,Samba Tamo (Unverified),10/27/2020 15:50,b998c452-10fe-4351-9103-aff7d78e6c45,"so in order to have the co-mgmt if is set to pilot, i have to select a collection to enable it?"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:50,74fa8a15-891f-44f5-b3a1-f8a778db5298,Question: 1 sccm environement controls the workstations another sccm environement the servers. Can both use tenant attach to same tenant? There is no CAS.
+Attendee,Question,Samba Tamo (Unverified),10/27/2020 15:50,f5cea1c2-8b06-430f-8d1b-989de170ec1f,"so in order to have the co-mgmt if is set to pilot, i have to select a collection to enable it?"
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 16:01,f5cea1c2-8b06-430f-8d1b-989de170ec1f,"Yes. See the slides available on VSMUG(Samba Tamo (Unverified) asked ""so in order to have the co-mgmt if is set to pilot, i have to select a collection to enable it?"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:50,2dcc3785-9abc-4847-8e85-c736a1409e08,Question: 1 sccm environement controls the workstations another sccm environement the servers. Can both use tenant attach to same tenant? There is no CAS.
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:19,2dcc3785-9abc-4847-8e85-c736a1409e08,Create separate azure ad apps for each SCCM hierarchy https://docs.microsoft.com/en-us/mem/configmgr/tenant-attach/device-sync-actions#bkmk_aad_app(Question: 1 sccm environement controls the workstations another sccm environement the servers. Can both use tenant attach to same tenant? There is no CAS.)
+Attendee,Question,Kedar (Unverified),10/27/2020 15:51,43952e65-2e82-499d-a879-eba9ca48cde3,"When enabled comanagement and moving worload to Intune, do we still requires DR setup like Passive Site Server, additional MPs, SQL DB  etc. for on premises ConfigMgr infrastructure?"
+Attendee,Question,Ashu Maheshwari  (Unverified),10/27/2020 15:51,c0860ab6-aa88-4da5-816e-d698bdf440b1,IF the windows device is already co-managed and later want to use autopilot for  repurpose. what are the steps need to be performed
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:51,e04acc5a-a3c5-4d81-b0e3-cb554865ec1d,still confused...should we have both tenant attached & Co-mgmt to get max value??
+Attendee,Question,Anonymous (Unverified),10/27/2020 15:52,5e92526f-dc34-44ca-97d6-73ff1ed5296f,still confused...should we have both tenant attached & Co-mgmt to get max value??
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:19,5e92526f-dc34-44ca-97d6-73ff1ed5296f,yes(still confused...should we have both tenant attached & Co-mgmt to get max value??)
+Attendee,Question,Ashu Maheshwari  (Unverified),10/27/2020 15:52,2e8c40d8-4c3a-4e37-a6da-7798c05fe1e8,IF the windows device is already co-managed and later want to use autopilot for  repurpose. what are the steps need to be performed
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:21,2e8c40d8-4c3a-4e37-a6da-7798c05fe1e8,"Same Autopilot process as normal. You can push the sccm client as a line of business app and get it co managed again(Ashu Maheshwari  (Unverified) asked ""IF the windows device is already co-managed and later want to use autopilot for  repurpose. what are the steps need to be performed"")"
+Attendee,Question,Kedar (Unverified),10/27/2020 15:52,2543c024-3092-45b1-acb2-b77eeb051d29,"When enabled comanagement and moving worload to Intune, do we still requires DR setup like Passive Site Server, additional MPs, SQL DB  etc. for on premises ConfigMgr infrastructure?"
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:21,2543c024-3092-45b1-acb2-b77eeb051d29,"Totally separate concen really. If you need DR for your ConfigMgr environment then keep it like this(Kedar (Unverified) asked ""When enabled comanagement and moving worload to Intune, do we still requires DR setup like Passive Site Server, additional MPs, SQL DB  etc. for on premises ConfigMgr infrastructure?"")"
+Attendee,Question,Nick W. (Unverified),10/27/2020 15:56,95a7aaa4-105e-4077-959a-0929027ecafb,"I would reccomend a service account for co-mgmt, had a previous admin leave , and when account was disabled it created a slew of problems."
+Attendee,Question,Nick W. (Unverified),10/27/2020 15:57,adaf1236-8553-424d-88b4-79610b0d79ca,"I would reccomend a service account for co-mgmt, had a previous admin leave , and when account was disabled it created a slew of problems."
+Attendee,Question,Jon (Unverified),10/27/2020 15:58,3f5d0c62-72b6-420e-8f5a-dbdffcdc2e5d,"My company is a AD Child Domain, are the co-managment requirements the same?"
+Attendee,Question,Jon (Unverified),10/27/2020 15:59,23e397f6-b4a7-4ce2-ab47-2e932569daec,Is Hybrid AAD required for Tenant Attach?
+Attendee,Question,Video keeps fading and out. (Unverified),10/27/2020 15:59,3727879f-f5d1-47af-b4d3-993fa6049cfb,"Yes, I could see screen"
+Attendee,Question,Jon (Unverified),10/27/2020 16:00,13322094-24b5-4d1b-bc2a-3c6af6260709,"My company is a AD Child Domain, are the co-managment requirements the same?"
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:34,13322094-24b5-4d1b-bc2a-3c6af6260709,"Don't think they are any different Jon(Jon (Unverified) asked ""My company is a AD Child Domain, are the co-managment requirements the same?"")"
+Attendee,Question,Jon (Unverified),10/27/2020 16:00,bf40737b-ba5b-446e-8084-7907a5be3b35,Is Hybrid AAD required for Tenant Attach?
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 16:11,bf40737b-ba5b-446e-8084-7907a5be3b35,"From Matt
+
+@Jon - Hybrid AAD is not required for Tenant Attach. For instance, when you enable Tenant Attach for All Devices, you can even see your servers in the Microsoft Endpoint Manager Admin Center, which are most likely only on premises Active Directory joined. If you wanted to do actions in Intune besides the Config Manager client actions, then you would need it to be Azure AD Joined, and MDM Registered, thus Intune enrolled.(Jon (Unverified) asked ""Is Hybrid AAD required for Tenant Attach?"")"
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:23,bf40737b-ba5b-446e-8084-7907a5be3b35,"Jon - as you could see in the demo, configmgr only device such as servers can appear in the console once device upload kicks in. No requirement for hybrid at all(Jon (Unverified) asked ""Is Hybrid AAD required for Tenant Attach?"")"
+Attendee,Question,Nick W. (Unverified),10/27/2020 16:00,352b12da-5768-4ab8-ba42-7d69791c2827,"I've added a device to the co-mgmt group after attaching it in intune, and it's not switching to co-mgmt status, does this process take some time?"
+Attendee,Question,Nick W. (Unverified),10/27/2020 16:00,ecee0f24-c2a5-45b1-bb12-a5b90c64b5dd,Co-mgmt device collection i should say*
+Attendee,Question,Nick W. (Unverified),10/27/2020 16:00,21f353a2-00bb-4de6-b5a2-2e97d1fa5ab1,"I've added a device to the co-mgmt group after attaching it in intune, and it's not switching to co-mgmt status, does this process take some time?"
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 16:02,21f353a2-00bb-4de6-b5a2-2e97d1fa5ab1,"Is the device enrolled in Intune?(Nick W. (Unverified) asked ""I've added a device to the co-mgmt group after attaching it in intune, and it's not switching to co-mgmt status, does this process take some time?"")"
+Attendee,Question,Nick W. (Unverified),10/27/2020 16:00,27489cea-11a3-4b18-8669-7af78262cbad,Co-mgmt device collection i should say*
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:33,27489cea-11a3-4b18-8669-7af78262cbad,"Have you assigned an Azure premium licence to the user?(Nick W. (Unverified) asked ""Co-mgmt device collection i should say*"")"
+Attendee,Question,Samba Tamo (Unverified),10/27/2020 16:01,de45846e-62cf-46a7-8475-8068d67fed52,on the merging devices(co-managed and confgmgr) what exctly has to be done?
+Attendee,Question,Samba Tamo (Unverified),10/27/2020 16:01,69b47f68-1ed4-4e80-97f9-b96e656690de,on the merging devices(co-managed and confgmgr) what exctly has to be done?
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:02,69b47f68-1ed4-4e80-97f9-b96e656690de,"Nothing, it happens in the background automatically(Samba Tamo (Unverified) asked ""on the merging devices(co-managed and confgmgr) what exctly has to be done?"")"
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 16:02,69b47f68-1ed4-4e80-97f9-b96e656690de,"Spot on..its a backend process..I have seen it take up to 24hrs sometimes to remove the duplicates(Samba Tamo (Unverified) asked ""on the merging devices(co-managed and confgmgr) what exctly has to be done?"")"
+Attendee,Question,Nick (Unverified),10/27/2020 16:03,beaa05cf-1aec-4726-bbf7-ff46f34d5a9d,A Microsoft Minute
+Attendee,Question,Kedar (Unverified),10/27/2020 16:03,286eebed-b809-4874-8d41-21116f9c3cb5,"When run Resource Explore, does it collect information from on premise DB or Intune also collects the inventory at its end?"
+Attendee,Question,Nick W. (Unverified),10/27/2020 16:04,cb305147-3ccc-455f-86c2-a8170f92bc6f,My device is in the Device collection that is set to pilot in automatic enrollment.
+Attendee,Question,Nick (Unverified),10/27/2020 16:05,a6bac77c-a68a-499b-b3d4-ee6e76bdaf00,A Microsoft Minute
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:05,a6bac77c-a68a-499b-b3d4-ee6e76bdaf00,"☁(Nick (Unverified) asked ""A Microsoft Minute"")"
+Attendee,Question,Nick W. (Unverified),10/27/2020 16:05,0623f9ae-022e-4b12-8e41-19b00f672b8e,My device is in the Device collection that is set to pilot in automatic enrollment.
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 16:06,0623f9ae-022e-4b12-8e41-19b00f672b8e,"The status changes in Intune after the device is enrolled. An MDM Sync occurs after enrollment and every capability change.(Nick W. (Unverified) asked ""My device is in the Device collection that is set to pilot in automatic enrollment."")"
+Attendee,Question,Kedar (Unverified),10/27/2020 16:05,c46d73d3-cdaf-4bd6-94d4-2b959648f586,"When run Resource Explore, does it collect information from on premise DB or Intune also collects the inventory at its end?"
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:23,c46d73d3-cdaf-4bd6-94d4-2b959648f586,"collecting from CM(Kedar (Unverified) asked ""When run Resource Explore, does it collect information from on premise DB or Intune also collects the inventory at its end?"")"
+Attendee,Question,Vish (Unverified),10/27/2020 16:06,59938c1a-1938-4d4f-9bd3-5606e115d5fd,"Thanks for the demo Paul, with the event data in timeline do you need log analytics enabled or is that data coming from CM?"
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:06,42e8b730-ab2b-44ed-b492-02b09b1fb255,Does the Analytics aspect require Windows 10 Entperise?
+Attendee,Question,Jeff (Unverified),10/27/2020 16:07,f26b68b2-40c5-4d70-92dd-ec6767aeebc3,"I see someone else post about Encryption with Hyrbid systems, and I am also having issues with this. Is there a trick to get this working with Intune? I have SecureBoot enabled, and decrypted the drive."
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:08,74e71670-ab44-4a82-896a-9b9a2a87b199,7Zip > WinZip. Your users deserve better.
+Attendee,Question,Jeff (Unverified),10/27/2020 16:08,5371337f-b3cd-47fc-929c-bc6ebbde4fe8,"I see someone else post about Encryption with Hyrbid systems, and I am also having issues with this. Is there a trick to get this working with Intune? I have SecureBoot enabled, and decrypted the drive."
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:32,5371337f-b3cd-47fc-929c-bc6ebbde4fe8,"i haven't seen problems. have you checked the BitLocker event logs for errors or warnings?(Jeff (Unverified) asked ""I see someone else post about Encryption with Hyrbid systems, and I am also having issues with this. Is there a trick to get this working with Intune? I have SecureBoot enabled, and decrypted the drive."")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:08,aa1c3f1e-dfb8-4170-bec6-84206b1e3109,Does the Analytics aspect require Windows 10 Entperise?
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 16:12,aa1c3f1e-dfb8-4170-bec6-84206b1e3109,Tenant Attach supports all OS versions that config Mgr supports..which aspect particularly do you refer to?(Does the Analytics aspect require Windows 10 Entperise?)
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:25,aa1c3f1e-dfb8-4170-bec6-84206b1e3109,Timeline works for workstations and servers. OS not revelent - I can see info from a server 2012 R2 box for exampple(Does the Analytics aspect require Windows 10 Entperise?)
+Attendee,Question,Vish (Unverified),10/27/2020 16:08,3bcf3c90-4721-45a5-b6dd-57359a69148e,"Thanks for the demo Paul, with the event data in timeline do you need log analytics enabled or is that data coming from CM?"
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:25,3bcf3c90-4721-45a5-b6dd-57359a69148e,"from CM(Vish (Unverified) asked ""Thanks for the demo Paul, with the event data in timeline do you need log analytics enabled or is that data coming from CM?"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:08,dd6a5f28-d971-482e-bfe2-0b4560f05b8b,7Zip > WinZip. Your users deserve better.
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 16:12,dd6a5f28-d971-482e-bfe2-0b4560f05b8b,😃(7Zip > WinZip. Your users deserve better.)
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:25,dd6a5f28-d971-482e-bfe2-0b4560f05b8b,and they were all packaged for me via the Patch My PC solution BTW ;-)(7Zip > WinZip. Your users deserve better.)
+Attendee,Question,Jeff (Unverified),10/27/2020 16:09,4ad81956-6ff9-4bd2-9675-a171c19e3ad2,I have found the logs in Intune to not be as informative as the logs that Configuration Manager creates. Is there a good place to get all the logs ?
+Attendee,Question,Jeff (Unverified),10/27/2020 16:09,ab12bd73-2ded-4aaf-9bce-512ca0c33ed4,I have found the logs in Intune to not be as informative as the logs that Configuration Manager creates. Is there a good place to get all the logs ?
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:26,ab12bd73-2ded-4aaf-9bce-512ca0c33ed4,"afraid not(Jeff (Unverified) asked ""I have found the logs in Intune to not be as informative as the logs that Configuration Manager creates. Is there a good place to get all the logs ?"")"
+Attendee,Question,Matt Page (Unverified),10/27/2020 16:10,d8d170f8-55ff-4484-9610-a154ce12b627,"@Jon - Hybrid AAD is not required for Tenant Attach. For instance, when you enable Tenant Attach for All Devices, you can even see your servers in the Microsoft Endpoint Manager Admin Center, which are most likely only on premises Active Directory joined. If you wanted to do actions in Intune besides the Config Manager client actions, then you would need it to be Azure AD Joined, and MDM Registered, thus Intune enrolled."
+Attendee,Question (Archived),Matt Page (Unverified),10/27/2020 16:10,d83cf81a-70f6-4174-b4dc-815f8d163ffb,"@Jon - Hybrid AAD is not required for Tenant Attach. For instance, when you enable Tenant Attach for All Devices, you can even see your servers in the Microsoft Endpoint Manager Admin Center, which are most likely only on premises Active Directory joined. If you wanted to do actions in Intune besides the Config Manager client actions, then you would need it to be Azure AD Joined, and MDM Registered, thus Intune enrolled."
+Attendee,Question,Samba Tamo (Unverified),10/27/2020 16:11,fe835ee4-b77b-417a-843b-aa0a8c777429,how can i get the list of the devices enrolled and with the intune enable?
+Attendee,Question,Ian (Unverified),10/27/2020 16:11,872bbe9a-d566-4458-ac7d-cc75ac0d7f79,Looking to setup co-management to manage smartphones via intune initially.  not looking to manage current devices attached to CM at his pont in intune but will do in the future. What is the process of attaching Android smarphones to intune when its available?
+Attendee,Question,Samba Tamo (Unverified),10/27/2020 16:12,ad5c4a0f-e55a-4c5e-b9d6-4be728b573cc,how can i get the list of the devices enrolled and with the intune enable?
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:27,ad5c4a0f-e55a-4c5e-b9d6-4be728b573cc,"In the MEM admin center the windows devices will report as co-managed in the Managed By column(Samba Tamo (Unverified) asked ""how can i get the list of the devices enrolled and with the intune enable?"")"
+Attendee,Question,Ian (Unverified),10/27/2020 16:12,67e5d7e5-ac7e-4209-9c65-eee6f97369df,Looking to setup co-management to manage smartphones via intune initially.  not looking to manage current devices attached to CM at his pont in intune but will do in the future. What is the process of attaching Android smarphones to intune when its available?
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:27,67e5d7e5-ac7e-4209-9c65-eee6f97369df,"co-management is Windows 10 devices only(Ian (Unverified) asked ""Looking to setup co-management to manage smartphones via intune initially.  not looking to manage current devices attached to CM at his pont in intune but will do in the future. What is the process of attaching Android smarphones to intune when its available?"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:13,f6cfd7b7-b1c2-4452-8bf7-5d564ac275b3,"you can approve your won scripts. just a small setting. Admins can deploy malicious forced applications, why shuld i trust them less with scripts?)"
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:13,15a7c077-8f5a-4db1-9d2c-72b35bf8d165,"Just a tip that if you have other tooling for Help Desk, you can do things via Tenant Attach just to get the relevant actions from the AdminService.log that you need to plug into your existing tooling. :)"
+Attendee,Question,Nick (Unverified),10/27/2020 16:14,48ee75c3-25cd-4a2f-bf48-d4ef70fe50ed,looks great
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:14,f6884465-3f35-4b4c-9247-2e8db206a8e8,"you can approve your won scripts. just a small setting. Admins can deploy malicious forced applications, why shuld i trust them less with scripts?)"
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:28,f6884465-3f35-4b4c-9247-2e8db206a8e8,"cheeky(you can approve your won scripts. just a small setting. Admins can deploy malicious forced applications, why shuld i trust them less with scripts?))"
+Attendee,Question,Andreas (Unverified),10/27/2020 16:14,bf3af1f3-06c5-4e4b-8829-07a32a2dde50,Thanks Paul !
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:14,969b533b-5db0-4063-ae94-00ab245062bf,"Just a tip that if you have other tooling for Help Desk, you can do things via Tenant Attach just to get the relevant actions from the AdminService.log that you need to plug into your existing tooling. :)"
+Attendee,Question,Kedar (Unverified),10/27/2020 16:14,d2c92677-be67-4f21-b762-cf64e16a7a5a,Regarding Run Scripts feature....Does all on premise Scripts synced in intune console? Or do we need to create it in intune console?
+Attendee,Question,Kedar (Unverified),10/27/2020 16:15,3bae6cf3-7dea-493a-964e-3d1abd5e1b10,Regarding Run Scripts feature....Does all on premise Scripts synced in intune console? Or do we need to create it in intune console?
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:28,3bae6cf3-7dea-493a-964e-3d1abd5e1b10,"create in the scripts node in Software Library in ConfigMger(Kedar (Unverified) asked ""Regarding Run Scripts feature....Does all on premise Scripts synced in intune console? Or do we need to create it in intune console?"")"
+Attendee,Question,Vish (Unverified),10/27/2020 16:16,b2e2c8ed-1f7f-42ac-ab8c-1d56fc1f9e95,@Ian standalone intune deployment - nothing to do with what we are discussing today.
+Attendee,Question,Samba Tamo (Unverified),10/27/2020 16:16,53fa4e69-5350-49b9-ba07-e5a4b417851b,what about importing scripts? what extensions?
+Attendee,Question,Vish (Unverified),10/27/2020 16:17,bbcd66d2-5c55-4992-9890-bfc5e4af5568,@Ian standalone intune deployment - nothing to do with what we are discussing today.
+Attendee,Question,Samba Tamo (Unverified),10/27/2020 16:17,747860cf-4b64-46bd-80f6-41fb7213a13c,what about importing scripts? what extensions?
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:29,747860cf-4b64-46bd-80f6-41fb7213a13c,"PowerShell only (Samba Tamo (Unverified) asked ""what about importing scripts? what extensions?"")"
+Attendee,Question,Andreas (Unverified),10/27/2020 16:17,cae41eb7-8099-46de-a1a1-48844c6916e5,Thanks Paul !
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 16:29,cae41eb7-8099-46de-a1a1-48844c6916e5,"thank you(Andreas (Unverified) asked ""Thanks Paul !"")"
+Attendee,Question,Dan (Unverified),10/27/2020 16:18,0959ed5a-7089-474d-82bc-625cb20dff16,"Happen to know if HP's catagories still extremely broad?  If I remember is it ""drivers"", ""apps"" etc"
+Attendee,Response,Dan (Unverified),10/27/2020 16:34,0959ed5a-7089-474d-82bc-625cb20dff16,"You're my hero(Dan (Unverified) asked ""Happen to know if HP's catagories still extremely broad?  If I remember is it ""drivers"", ""apps"" etc"")"
+Attendee,Question,Lee Langley (Unverified),10/27/2020 16:18,1fe8237b-8463-4420-a344-b3ef5c63fef5,"Justin, is this section applicable to publishing on a 2012r2 WSUS as well as 2016?"
+Attendee,Question,Kacper Pudlik (Unverified),10/27/2020 16:20,252ca63a-3b36-4070-a673-8091752722d2,"If we would co-manage, and move update to be managed by the Intune. Can we still use 3rd party catalogue? Like MSFT updates + drivers come from the WUfB, but Adobe 3rd party catalogue comes from the configMgr ?"
+Attendee,Question,Kacper Pudlik (Unverified),10/27/2020 16:21,212598b4-d57f-46da-b795-404aec597b2a,"If we would co-manage, and move update to be managed by the Intune. Can we still use 3rd party catalogue? Like MSFT updates + drivers come from the WUfB, but Adobe 3rd party catalogue comes from the configMgr ?"
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 16:27,212598b4-d57f-46da-b795-404aec597b2a,"Ive not tested this exact scenario. My thoughts are if you enable Dual Scan you could still use WSUS for 3rd Party Updates. PMPC guys should be able to verify
+
+(Kacper Pudlik (Unverified) asked ""If we would co-manage, and move update to be managed by the Intune. Can we still use 3rd party catalogue? Like MSFT updates + drivers come from the WUfB, but Adobe 3rd party catalogue comes from the configMgr ?"")"
+Attendee,Question,Lee Langley (Unverified),10/27/2020 16:21,5c01682d-06b8-4dbc-ae4e-e0b3a6d92caa,"Justin, is this section applicable to publishing on a 2012r2 WSUS as well as 2016?"
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:24,5c01682d-06b8-4dbc-ae4e-e0b3a6d92caa,"Yes, should still work on 2012r2(Lee Langley (Unverified) asked ""Justin, is this section applicable to publishing on a 2012r2 WSUS as well as 2016?"")"
+Attendee,Question,Dan (Unverified),10/27/2020 16:21,cbc3f682-2e15-4e64-a9b1-4dfbd6a97993,"Happen to know if HP's catagories still extremely broad?  If I remember is it ""drivers"", ""apps"" etc"
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:21,8bfb212d-5c41-4801-b573-54133667dddb,"In relation to V3 catalogs, anyone seeing issues where the update is showing as applicable but because a client happens to have the UWP/DCH version of a driver installed, the V3 driver attempts to install, fails, shows as applicable again, installs, fails. Repeat, ad nauseum"
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:21,25e76648-a7c0-4887-8c2e-0383d7072a4e,"In relation to V3 catalogs, anyone seeing issues where the update is showing as applicable but because a client happens to have the UWP/DCH version of a driver installed, the V3 driver attempts to install, fails, shows as applicable again, installs, fails. Repeat, ad nauseum"
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:26,25e76648-a7c0-4887-8c2e-0383d7072a4e,"That is a problem in Dell's applicability rules unfortunately. I'd report that to Dell(In relation to V3 catalogs, anyone seeing issues where the update is showing as applicable but because a client happens to have the UWP/DCH version of a driver installed, the V3 driver attempts to install, fails, shows as applicable again, installs, fails. Repeat, ad nauseum)"
+Attendee,Question,Ondra H (Unverified),10/27/2020 16:23,e413ad28-7907-4442-b3f1-78425bd4948a,"we have Dell and HP in our company..Only Dell has v3 catalague..but is has still some things which are not possible - BIOS update if you are using BIOS password, Docking station managment as there are no drivers for them :( DELL has also problem with their ""decline/suprseed"" process "
+Attendee,Question,Ondra H (Unverified),10/27/2020 16:24,932479e4-4438-4e14-9dc9-e00947543988,"we have Dell and HP in our company..Only Dell has v3 catalague..but is has still some things which are not possible - BIOS update if you are using BIOS password, Docking station managment as there are no drivers for them :( DELL has also problem with their ""decline/suprseed"" process "
+Attendee,Question,Jared (Unverified),10/27/2020 16:24,561d390d-cf54-4909-af0b-22e64a90a78d,"Hmm Lenovo articles imply the Lenovo Update Catalog Agent (LUCAgent) is a pre-req, is that not the case?"
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:25,371646fd-17c8-41bd-95e2-700a66beb256,"What's the scan impact for clients that don't have, say, the relevant WMI classes for the Dell catalog applicability rules? E.g., non-Dell clients that will never have the OpenManage agent installed, where those applicability rules will actually fail to execute, instead of evaluate as false."
+Attendee,Question,Jared (Unverified),10/27/2020 16:27,96a8fa0e-1fc9-454a-afb9-824b9ed43fde,"Hmm Lenovo articles imply the Lenovo Update Catalog Agent (LUCAgent) is a pre-req, is that not the case?"
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:27,96a8fa0e-1fc9-454a-afb9-824b9ed43fde,"Can you share that doc? I didn't come upon it in my research(Jared (Unverified) asked ""Hmm Lenovo articles imply the Lenovo Update Catalog Agent (LUCAgent) is a pre-req, is that not the case?"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:27,6dcb8be2-0679-4743-be3a-98c938b2c6a1,"What's the scan impact for clients that don't have, say, the relevant WMI classes for the Dell catalog applicability rules? E.g., non-Dell clients that will never have the OpenManage agent installed, where those applicability rules will actually fail to execute, instead of evaluate as false."
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:28,6dcb8be2-0679-4743-be3a-98c938b2c6a1,"Fail to execute is going to come back as a false, but the scan will still run(What's the scan impact for clients that don't have, say, the relevant WMI classes for the Dell catalog applicability rules? E.g., non-Dell clients that will never have the OpenManage agent installed, where those applicability rules will actually fail to execute, instead of evaluate as false.)"
+Attendee,Question,Jared (Unverified),10/27/2020 16:28,19fffe48-d340-4231-8c28-6b3d1d4e6aa2,Lenovo Article: https://support.lenovo.com/uu/en/solutions/ht510591
+Attendee,Question,Jared (Unverified),10/27/2020 16:29,e8cacf7e-63d7-4af6-a920-78d644a716d3,Lenovo Article: https://support.lenovo.com/uu/en/solutions/ht510591
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:29,e8cacf7e-63d7-4af6-a920-78d644a716d3,"Thanks! I'll update the slide(Jared (Unverified) asked ""Lenovo Article: https://support.lenovo.com/uu/en/solutions/ht510591"")"
+Attendee,Question,Sean Huggans (Unverified),10/27/2020 16:30,ace1cd3d-0fe7-43c1-9789-7b6d9a82612c,"Anyone using the drivers via updates and an install software updates step to install drivers during OSD?  Or just using DaaS and then updating anything out of date with install software updates step?  Just wondering how thorough the catalogs are in real world application and if it is a valid replacement, or only supplemental?"
+Attendee,Question,Ondra H (Unverified),10/27/2020 16:30,ca0bb311-bb8a-424e-9e30-6fef0db0a54c,may i get link for HP v3 catalogue? :) 
+Attendee,Question,Ondra H (Unverified),10/27/2020 16:31,a3c6b4e9-700a-4f59-a276-c922af5d8201,may i get link for HP v3 catalogue? :) 
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 16:32,a3c6b4e9-700a-4f59-a276-c922af5d8201,"It should show up right in the conole for you?(Ondra H (Unverified) asked ""may i get link for HP v3 catalogue? :) "")"
+Attendee,Question,Rob (Unverified),10/27/2020 16:32,c9382672-4084-45c6-8af5-7aa8e3463268,What do you do with the Adobe cataog?  Do you still have to use SCUP 2011? 
+Attendee,Question,Rob (Unverified),10/27/2020 16:33,56970cd3-292c-4e53-a46e-f1cd08aa5b4e,What do you do with the Adobe cataog?  Do you still have to use SCUP 2011? 
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 16:33,56970cd3-292c-4e53-a46e-f1cd08aa5b4e,"We will show how this work :)(Rob (Unverified) asked ""What do you do with the Adobe cataog?  Do you still have to use SCUP 2011? "")"
+Attendee,Question,Matt L (Unverified),10/27/2020 16:34,62b47ae8-9338-4c03-ad4d-2273a4ee14a3,"@Kacper Pudlik, we are using WUfB and are using dual scan to deploy 3rd party updates from CM, so yes it is possible."
+Attendee,Question,Matt L (Unverified),10/27/2020 16:36,0bb3d7de-5936-4cef-bf55-5e5345e5a897,"@Kacper Pudlik, we are using WUfB and are using dual scan to deploy 3rd party updates from CM, so yes it is possible."
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 16:37,0bb3d7de-5936-4cef-bf55-5e5345e5a897,"Thanks for confirming Matt :)(Matt L (Unverified) asked ""@Kacper Pudlik, we are using WUfB and are using dual scan to deploy 3rd party updates from CM, so yes it is possible."")"
+Attendee,Question,Video keeps fading and out. (Unverified),10/27/2020 16:36,d265f060-fc50-4a69-bdf5-3acdc5325fdd,Will we be able to view this course again.  I am having connectivity issues off and on?
+Attendee,Question,Sean Huggans (Unverified),10/27/2020 16:36,5b9761ba-c28c-49be-8203-20b8d0abb7c7,"Anyone using the drivers via updates and an install software updates step to install drivers during OSD?  Or just using DaaS and then updating anything out of date with install software updates step?  Just wondering how thorough the catalogs are in real world application and if it is a valid replacement, or only supplemental?"
+Attendee,Question,Video keeps fading and out. (Unverified),10/27/2020 16:36,1623a108-0378-4c41-bcba-11088d52f47f,Will we be able to view this course again.  I am having connectivity issues off and on?
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 16:37,1623a108-0378-4c41-bcba-11088d52f47f,"vsmug.com/youtube(Video keeps fading and out. (Unverified) asked ""Will we be able to view this course again.  I am having connectivity issues off and on?"")"
+Attendee,Question,Chase (Unverified),10/27/2020 16:36,a8302d47-22f5-4722-b85d-8884b98c95d1,So I need to do the catalog v2 -> v3 dance I guess
+Attendee,Response,Chase (Unverified),10/27/2020 16:37,a8302d47-22f5-4722-b85d-8884b98c95d1,"840 G5 Elitebook(Chase (Unverified) asked ""So I need to do the catalog v2 -> v3 dance I guess"")"
+Attendee,Question,Chase (Unverified),10/27/2020 16:37,171a72e9-0e1f-46ce-b6e0-f3e198e0bf85,So I need to do the catalog v2 -> v3 dance I guess
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:57,171a72e9-0e1f-46ce-b6e0-f3e198e0bf85,"Correct, my script is meant to help that dance :)(Chase (Unverified) asked ""So I need to do the catalog v2 -> v3 dance I guess"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:37,0e21fef1-a79d-45af-b928-c9e3d5e03cba,i just saw the vr backpack in that list
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:37,79bbafc2-6ca7-4224-8908-304e62598d16,i just saw the vr backpack in that list
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 16:42,79bbafc2-6ca7-4224-8908-304e62598d16,I need one!(i just saw the vr backpack in that list)
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:37,b0743724-ef20-4829-a380-a503d6b3fc41,elitebook 840 G7 
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:37,a9499350-57c9-4a6a-9c58-a8cfa36d9926,Elitebook G5/G6
+Attendee,Question,Jeff (Unverified),10/27/2020 16:39,84fc1514-c317-4947-8e98-73c4e1414833,Any advantages to using this Driver deployments over the Automated Driver Toolkit deployment method as packages?
+Attendee,Question,Jeff (Unverified),10/27/2020 16:40,9ff6883a-3007-4d90-bf48-a84a39afd729,Any advantages to using this Driver deployments over the Automated Driver Toolkit deployment method as packages?
+Attendee,Question,luka51 (Unverified),10/27/2020 16:40,3e918252-3dba-4540-a2e4-7d89fca733bc,My custom schedule for Dell V3 catalog gets reset every week. Are you aware of any problem with sccm 2002? I had the same with 1910 tbh
+Attendee,Question,luka51 (Unverified),10/27/2020 16:40,f73598c9-42e6-4ee4-a526-c70f9b247aff,My custom schedule for Dell V3 catalog gets reset every week. Are you aware of any problem with sccm 2002? I had the same with 1910 tbh
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:58,f73598c9-42e6-4ee4-a526-c70f9b247aff,"I have not heard of this issue, but it is definitely something I would file a frown on.(luka51 (Unverified) asked ""My custom schedule for Dell V3 catalog gets reset every week. Are you aware of any problem with sccm 2002? I had the same with 1910 tbh"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:40,bcc2a61c-5d52-4f15-ad7c-f89265b21a06,Elitebook G5/G6
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:41,f4803174-5ebc-443a-88bf-2e0502a0d848,elitebook 840 G7 
+Attendee,Question,John (Unverified),10/27/2020 16:41,373b7f1a-d8fa-49f5-925d-952e971d8585,Can ConfigManager 3rd party updates coexist with PatchMyPC
+Attendee,Question,John (Unverified),10/27/2020 16:41,c728e166-260c-4ab4-886a-ae28d6d1cc11,Can ConfigManager 3rd party updates coexist with PatchMyPC
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:42,c728e166-260c-4ab4-886a-ae28d6d1cc11,"Yes(John (Unverified) asked ""Can ConfigManager 3rd party updates coexist with PatchMyPC"")"
+Attendee,Question,Tobias (Unverified),10/27/2020 16:42,c699bc6d-754c-419a-ad68-be44fc4e37db,"Regarding my earlier question on co-management, my /r/sccm post is also up now: https://www.reddit.com/r/SCCM/comments/jj16mk/comanagement_with_intune_no_error/ would appreciate the help"
+Attendee,Question,Jason King (Unverified),10/27/2020 16:42,4cc8af55-6cda-4766-ba4a-c842e2f263f7,So my HP catalog doesnt say it has categories do I just need to delete and resub to it?
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:42,19a13d8d-0d5e-48f0-a5c5-8f7cfe0411d5,Can updates be pulled directly from MS by remote users or do they have to be hosted on a DP or CMG? I`m looking to reduce CMG egress costs!
+Attendee,Response,Anonymous (Unverified),10/27/2020 16:47,19a13d8d-0d5e-48f0-a5c5-8f7cfe0411d5,"Thanks for the blog post. i`ll check that out. I`m using MS for Win updates but stil hosting drivers. Hoping to offload thoses, too!(Can updates be pulled directly from MS by remote users or do they have to be hosted on a DP or CMG? I`m looking to reduce CMG egress costs!)"
+Attendee,Question,Steve S (Unverified),10/27/2020 16:43,59f93925-0a04-4d30-bf13-2a0d931c85eb,"for the third party cleanup script, when it asks what to keep, how do you keep nothing?"
+Attendee,Question,Tobias (Unverified),10/27/2020 16:43,c58ec091-57ae-4316-ac40-4181d99f6701,"Regarding my earlier question on co-management, my /r/sccm post is also up now: https://www.reddit.com/r/SCCM/comments/jj16mk/comanagement_with_intune_no_error/ would appreciate the help"
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 16:46,c58ec091-57ae-4316-ac40-4181d99f6701,"There was a CI evaluation issue that was fixed in 2006 but that didnt prevent clients enrolling.
+
+Are your clients receiving the policy? What does the Configurations tab show on the client for the CI's? Compliant?(Tobias (Unverified) asked ""Regarding my earlier question on co-management, my /r/sccm post is also up now: https://www.reddit.com/r/SCCM/comments/jj16mk/comanagement_with_intune_no_error/ would appreciate the help"")"
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 16:47,c58ec091-57ae-4316-ac40-4181d99f6701,"Ah, I can see they are enrolled. Ignore that point that I made.
+
+What CM version are you?(Tobias (Unverified) asked ""Regarding my earlier question on co-management, my /r/sccm post is also up now: https://www.reddit.com/r/SCCM/comments/jj16mk/comanagement_with_intune_no_error/ would appreciate the help"")"
+Attendee,Question,Jason King (Unverified),10/27/2020 16:43,edf2a702-4008-475b-aea5-bd0f2c164147,So my HP catalog doesnt say it has categories do I just need to delete and resub to it?
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 16:49,edf2a702-4008-475b-aea5-bd0f2c164147,"Yeah just resubscribe(Jason King (Unverified) asked ""So my HP catalog doesnt say it has categories do I just need to delete and resub to it?"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:43,b9d5bbe1-b80e-440f-bef2-2c449e132a38,Can updates be pulled directly from MS by remote users or do they have to be hosted on a DP or CMG? I`m looking to reduce CMG egress costs!
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 16:44,b9d5bbe1-b80e-440f-bef2-2c449e132a38,"Have you see Rob Yorks post?
+https://techcommunity.microsoft.com/t5/configuration-manager-blog/managing-remote-machines-with-cloud-management-gateway-in/ba-p/1233895(Can updates be pulled directly from MS by remote users or do they have to be hosted on a DP or CMG? I`m looking to reduce CMG egress costs!)"
+Attendee,Question,Steve S (Unverified),10/27/2020 16:43,11afb4ed-7a69-4cfd-988b-c3ccaf687e72,"for the third party cleanup script, when it asks what to keep, how do you keep nothing?"
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 16:49,11afb4ed-7a69-4cfd-988b-c3ccaf687e72,"Andrew answering now(Steve S (Unverified) asked ""for the third party cleanup script, when it asks what to keep, how do you keep nothing?"")"
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:55,11afb4ed-7a69-4cfd-988b-c3ccaf687e72,"Hmm, I didn't build that in actaully... You could probably select a category that you didn't have synced, something I'll need to look at adding for sure(Steve S (Unverified) asked ""for the third party cleanup script, when it asks what to keep, how do you keep nothing?"")"
+Attendee,Question,AL (Unverified),10/27/2020 16:45,4c2d356c-8464-4838-8456-5906079679ae,Do BIOS updates via these V3 catalogs work on systems where Bitlocker is enabled?  Or do you have to use a TaskSequence to manually disable Bitlocker before applying the Bios update?
+Attendee,Question,David Watts (Unverified),10/27/2020 16:46,ec993f01-301a-4037-8286-0d0a4226d8e4,Will you cover the Dell Command | System Driver Library Import? 
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:47,2d748d2e-3494-4cf7-ab61-9655eadb6d11,we just migrated to a new primary site and DP in aws. Since then the lenovo third party catalogue's Lenovo Update agent doesnt actually show as required anymore when it did previously. any suggetsions?
+Attendee,Question,Dan (Unverified),10/27/2020 16:47,7b706253-d910-4e03-8c2c-00adeb6e120e,"BIOS Updates, any password support via CM?"
+Attendee,Question,AL (Unverified),10/27/2020 16:47,9dabf2a4-d7ff-44ab-8a22-5d4a2f48063f,Do BIOS updates via these V3 catalogs work on systems where Bitlocker is enabled?  Or do you have to use a TaskSequence to manually disable Bitlocker before applying the Bios update?
+Attendee,Question,David Watts (Unverified),10/27/2020 16:47,11ebba33-6b9d-48e8-b210-64afe83e91ae,Will you cover the Dell Command | System Driver Library Import? 
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:48,f3d62abd-78d2-4f20-87de-d9471a545415,we just migrated to a new primary site and DP in aws. Since then the lenovo third party catalogue's Lenovo Update agent doesnt actually show as required anymore when it did previously. any suggetsions?
+Attendee,Question,Dan (Unverified),10/27/2020 16:48,d4d7ffee-68a2-436e-a596-55ac705f6e8e,"BIOS Updates, any password support via CM?"
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:54,d4d7ffee-68a2-436e-a596-55ac705f6e8e,"Not at this time.(Dan (Unverified) asked ""BIOS Updates, any password support via CM?"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:48,f3611afa-8890-4ec7-b7dc-00092014e58d,can you post a link to the script
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:48,b9298dd5-f3c6-4fdd-9d73-236f0fe34287,can you post a link to the script
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 16:50,b9298dd5-f3c6-4fdd-9d73-236f0fe34287,vsmug.com/github(can you post a link to the script)
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:48,3d7a2683-2e35-4282-a8f9-5f0ba15436bb,"so should we unscribe first then, subscribe?"
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:49,58fc7fc9-d8c5-4f40-93bf-dc870a6191b4,"so should we unscribe first then, subscribe?"
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 16:50,58fc7fc9-d8c5-4f40-93bf-dc870a6191b4,"Can just resubscibe(so should we unscribe first then, subscribe?)"
+Attendee,Question,Robert Gowdey (Unverified),10/27/2020 16:49,030f4661-731e-4eed-b585-827646d73a63,Mechanical keyboard for the win.
+Attendee,Question,Tobias (Unverified),10/27/2020 16:49,d51f08ef-f579-4ecf-b35d-5803561da6a1,"Regarding my reddit post, its version 2006 @Moderator"
+Attendee,Question,Tobias (Unverified),10/27/2020 16:49,ba548b15-5ff7-452b-86be-9b52cdf9bd6f,"Regarding my reddit post, its version 2006 @Moderator"
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 16:50,ba548b15-5ff7-452b-86be-9b52cdf9bd6f,"Do you have a complete comanagementhandler.log file you can DM me @byteben on Twitter? (My DMs are open)(Tobias (Unverified) asked ""Regarding my reddit post, its version 2006 @Moderator"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:49,0d5c3b84-13e9-4170-968e-11dd384ac324,Can I get the link for the WSUS Maintenance script? 
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:49,de20600a-648d-4f61-b76c-770f9ac0ad2c,this guy needs to pray to the demo gods more often
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:49,df8c08e6-2934-452f-b0a6-7a189cdab982,Can I get the link for the WSUS Maintenance script? 
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 16:50,df8c08e6-2934-452f-b0a6-7a189cdab982,vsmug.com/github(Can I get the link for the WSUS Maintenance script? )
+Attendee,Question,Kedar (Unverified),10/27/2020 16:50,90020c17-cca2-47a4-9c14-a4079b6f4ed5,"When I move the Bitlocker encryption worload to Intune, where my recovery keys stored? Is it in CM DB or Intune DB and how can I retrieve it in case recovery ?"
+Attendee,Question,Kedar (Unverified),10/27/2020 16:50,0503adc3-a779-41cf-8fc0-03ce6eb0f8e9,"When I move the Bitlocker encryption worload to Intune, where my recovery keys stored? Is it in CM DB or Intune DB and how can I retrieve it in case recovery ?"
+Moderator,Response,Ben Whitmore (ben@byteben.com),10/27/2020 16:55,0503adc3-a779-41cf-8fc0-03ce6eb0f8e9,"Have you seen this doc?
+https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-management-for-enterprises(Kedar (Unverified) asked ""When I move the Bitlocker encryption worload to Intune, where my recovery keys stored? Is it in CM DB or Intune DB and how can I retrieve it in case recovery ?"")"
+Attendee,Question,Robert Gowdey (Unverified),10/27/2020 16:51,0a906ab5-d6c4-4222-ab87-668e7c78e446,https://docs.microsoft.com/en-us/troubleshoot/mem/configmgr/wsus-maintenance-guide
+Attendee,Question,Robert Gowdey (Unverified),10/27/2020 16:51,40b236d1-75bc-428e-adf6-56267c6e4e5a,https://docs.microsoft.com/en-us/troubleshoot/mem/configmgr/wsus-maintenance-guide
+Moderator,Announcement,Justin Chalfant (justin@patchmypc.com),10/27/2020 16:53,7314c755-8452-431d-9433-804634ddd6e7,https://www.adobe.com/devnet-docs/acrobatetk/tools/DesktopDeployment/sccm.html
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:54,ce30a1f9-b61f-4d2e-992c-d8bbe9343ac0,Are there plans to integrate relevant Hardware Support Apps (like nVIDIA Control Panel) into driver management?
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:55,7095c879-7f84-4420-a02f-68d71e78b555,Do we need to apply the Adobe Catalog if we are using your PatchMyPc product?
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:56,ebd9d1d4-f3a2-4ebb-b7d6-47538bf311c0,Do we need to apply the Adobe Catalog if we are using your PatchMyPc product?
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:56,ebd9d1d4-f3a2-4ebb-b7d6-47538bf311c0,Nope we have all of the same Adobe Updates (except classic track 2020 at this time)(Do we need to apply the Adobe Catalog if we are using your PatchMyPc product?)
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:56,40615924-f5c0-4ea8-be73-fee6ffff5b65,Are there plans to integrate relevant Hardware Support Apps (like nVIDIA Control Panel) into driver management?
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:56,29eebe92-82e0-40b2-bc13-1600bd9e9187,what do you see as the use case for SCUP going forward?
+Attendee,Question,Jeff (Unverified),10/27/2020 16:56,c63aeeee-a4b7-4690-9cf2-26ccb0134e20,I recommend Patch My PC for managing Adobe. Unless this offers something that Patch My PC doesn't?
+Attendee,Question,Matt Page (Unverified),10/27/2020 16:56,ebf0b16b-ca9a-4e1a-bd2c-a619d7014f06,"HP's Driver Catalog is much improved, but often I get hash mismatch on some drivers which is annoying. Not sure if there is a way/team/address to report those to at HP?"
+Attendee,Question,Jared (Unverified),10/27/2020 16:58,7ce00ccf-78ee-455d-bb54-b85f9f938578,"@AL re: BIOS updates via V3 catalogs where Bitlocker is enabled-- In my experience it's vendor specific. Lenovo and Dell BIOS updates now seem to automatically suspend and resume BitLocker around their installation, where they did not before."
+Attendee,Question,Anonymous (Unverified),10/27/2020 16:58,29cd8672-d446-4238-943a-73c80271409a,what do you see as the use case for SCUP going forward?
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:58,29cd8672-d446-4238-943a-73c80271409a,SCUP will continue to be used by 3rd party update vendors at the very least. I basically live in SCUP(what do you see as the use case for SCUP going forward?)
+Attendee,Question,Jeff (Unverified),10/27/2020 16:58,9769d48c-f5b6-4f80-abfa-5cc07ad15ad5,I recommend Patch My PC for managing Adobe. Unless this offers something that Patch My PC doesn't?
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:59,9769d48c-f5b6-4f80-abfa-5cc07ad15ad5,"Patch My PC has all the same updates for adobe except classic track 2020 (which we'll likely add soon)(Jeff (Unverified) asked ""I recommend Patch My PC for managing Adobe. Unless this offers something that Patch My PC doesn't?"")"
+Attendee,Question,Matt Page (Unverified),10/27/2020 16:58,bcbf09f2-c23a-40dd-8f31-207c64c80a0e,"HP's Driver Catalog is much improved, but often I get hash mismatch on some drivers which is annoying. Not sure if there is a way/team/address to report those to at HP?"
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:10,bcbf09f2-c23a-40dd-8f31-207c64c80a0e,"Hash mismatch usually indicates that the dl has changed in some way, not sure the best contact in HP for this however.(Matt Page (Unverified) asked ""HP's Driver Catalog is much improved, but often I get hash mismatch on some drivers which is annoying. Not sure if there is a way/team/address to report those to at HP?"")"
+Attendee,Question,Jared (Unverified),10/27/2020 16:58,48bc9736-06c2-41a8-a925-bef156a34e86,"@AL re: BIOS updates via V3 catalogs where Bitlocker is enabled-- In my experience it's vendor specific. Lenovo and Dell BIOS updates now seem to automatically suspend and resume BitLocker around their installation, where they did not before."
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 16:59,48bc9736-06c2-41a8-a925-bef156a34e86,"I believe I read this about Dell updates at least(Jared (Unverified) asked ""@AL re: BIOS updates via V3 catalogs where Bitlocker is enabled-- In my experience it's vendor specific. Lenovo and Dell BIOS updates now seem to automatically suspend and resume BitLocker around their installation, where they did not before."")"
+Attendee,Question,Jason King (Unverified),10/27/2020 17:01,13ae11e0-7198-4b43-a8b8-16119d69167e,Does this script for Thrid Part Updates need to be run on the WSUS server or from anywhere?  
+Attendee,Question,Ged (Unverified),10/27/2020 17:01,dede6709-14c7-4b39-995c-e5c3de178e2d,What if ADR is used with Adobe updates? would cert need unblocking every time?
+Attendee,Question,David Watts (Unverified),10/27/2020 17:02,9784107b-7c83-4629-9f45-6244606e6e76,Have you thought about adding Drivers and BIOS updates into Patch My PC?
+Attendee,Question,Ged (Unverified),10/27/2020 17:02,53cba6ae-dff4-45d6-90e0-fb564a04ee54,What if ADR is used with Adobe updates? would cert need unblocking every time?
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:05,53cba6ae-dff4-45d6-90e0-fb564a04ee54,"The cert just needs to be unblocked once(Ged (Unverified) asked ""What if ADR is used with Adobe updates? would cert need unblocking every time?"")"
+Attendee,Question,Jason King (Unverified),10/27/2020 17:03,0a1a414e-a5d4-4181-88bd-7f6a35138bc8,Does this script for Thrid Part Updates need to be run on the WSUS server or from anywhere?  
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:05,0a1a414e-a5d4-4181-88bd-7f6a35138bc8,"WSUS server yes, it hits the WSUS API, I did not actaully test it on an external WSUS(Jason King (Unverified) asked ""Does this script for Thrid Part Updates need to be run on the WSUS server or from anywhere?  "")"
+Attendee,Question,David Watts (Unverified),10/27/2020 17:04,28873029-83e4-4908-99cc-82923e2d7ead,Have you thought about adding Drivers and BIOS updates into Patch My PC?
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 17:04,28873029-83e4-4908-99cc-82923e2d7ead,"+1 from me on that(David Watts (Unverified) asked ""Have you thought about adding Drivers and BIOS updates into Patch My PC?"")"
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:05,28873029-83e4-4908-99cc-82923e2d7ead,"I am not about that life(David Watts (Unverified) asked ""Have you thought about adding Drivers and BIOS updates into Patch My PC?"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:04,a503da4d-ed9e-4c05-8b58-89940a2c12f7,Should we check all three boxex>
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:05,cbfa000e-a5a7-45ed-a981-eb524b237571,Should we check all three boxex>
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:07,cbfa000e-a5a7-45ed-a981-eb524b237571,I would(Should we check all three boxex>)
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:05,82ec4af3-ae88-4e27-b0b5-e99a80390d4d,manananananagement studio
+Attendee,Question,JS (Unverified),10/27/2020 17:05,b8b8175b-70dd-4e8f-870c-2fa4174ae2df,Can you use ADR to deploy these 3rd party drvs ?
+Attendee,Question,Harjit (Unverified),10/27/2020 17:07,60901a9f-c28a-4047-a2bb-dde5062347c0,Can you stick that query in chat?
+Attendee,Question,Rob (Unverified),10/27/2020 17:07,735c561d-a9fe-4ffd-b44d-0d250d252ffa,run on primary or cas for that cleanup of expired updates? 
+Attendee,Question,Rob (Unverified),10/27/2020 17:07,5140b1ce-07a3-4c02-98ca-cfcba071108c,in sql
+Attendee,Question,JS (Unverified),10/27/2020 17:07,950f81d8-4a06-4094-981c-e1b193d360cc,Can you use ADR to deploy these 3rd party drvs ?
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:08,950f81d8-4a06-4094-981c-e1b193d360cc,"Absolutely(JS (Unverified) asked ""Can you use ADR to deploy these 3rd party drvs ?"")"
+Attendee,Question,Harjit (Unverified),10/27/2020 17:07,0eba0b1d-bf96-4ba7-92a8-99b5bad821d9,Can you stick that query in chat?
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:08,0eba0b1d-bf96-4ba7-92a8-99b5bad821d9,"DECLARE @Days as int = 0
+
+exec spDeleteExpiredUpdates @Days(Harjit (Unverified) asked ""Can you stick that query in chat?"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:07,e130d2ef-0c28-4342-a0a6-bbb8a830120c,manananananagement studio
+Attendee,Question,Rob (Unverified),10/27/2020 17:07,afd710da-4d04-4128-af5d-14c10489864c,run on primary or cas for that cleanup of expired updates? 
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:09,afd710da-4d04-4128-af5d-14c10489864c,"run it on the top level SUP, but I haven't tested in a CAS env... feedback would be appreciated :)(Rob (Unverified) asked ""run on primary or cas for that cleanup of expired updates? "")"
+Attendee,Question,Rob (Unverified),10/27/2020 17:07,91ccc0a0-981c-4ee3-be99-78823f049666,in sql
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:09,91ccc0a0-981c-4ee3-be99-78823f049666,"oh for SQL... Justin will have to answer(Rob (Unverified) asked ""in sql"")"
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:11,6c101aa9-47e4-49ba-8757-2ecccfa0f1a8,so is that tool a GUI for the PowerShell Script that Andrew had?
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:12,2b5868b0-0314-42dd-a02b-da8f33475a4e,so is that tool a GUI for the PowerShell Script that Andrew had?
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:14,2b5868b0-0314-42dd-a02b-da8f33475a4e,"Slightly different, my script is based on the v3 catalog categories(so is that tool a GUI for the PowerShell Script that Andrew had?)"
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:12,3d189f4b-c8d2-4be9-ad40-8f343e7c8352,Do you have your WSUS cleanup tips all blogged somewhere?
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:13,c0834a45-ec31-4846-accf-9f4dd3de5cac,Do you have your WSUS cleanup tips all blogged somewhere?
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 17:14,c0834a45-ec31-4846-accf-9f4dd3de5cac,https://damgoodadmin.com/2017/11/30/software-update-maintenance-its-a-thing-that-you-should-do/(Do you have your WSUS cleanup tips all blogged somewhere?)
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 17:15,c0834a45-ec31-4846-accf-9f4dd3de5cac,https://patchmypc.com/clean-up-third-party-updates-from-the-wsus-updateservicespackages-folder(Do you have your WSUS cleanup tips all blogged somewhere?)
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:13,155d1ece-4fc1-4c8f-ad85-968bd1b3c999,so is that tool (Show WSUS Unreferenced Folders) a GUI for the PowerShell Script that Andrew had?
+Attendee,Question,Matt Sample (Unverified),10/27/2020 17:14,90343a31-ea9d-48df-b669-b9b5f9d00ce7,Thanks for the demo - this was great!
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:14,b1c898b5-7198-41c0-8982-4e2264e66d19,so is that tool (Show WSUS Unreferenced Folders) a GUI for the PowerShell Script that Andrew had?
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:15,b1c898b5-7198-41c0-8982-4e2264e66d19,"Slightly different, my script is based on the v3 catalog categories. The GUI does not scan v3 categories, just WSUS product categories(so is that tool (Show WSUS Unreferenced Folders) a GUI for the PowerShell Script that Andrew had?)"
+Attendee,Question,Matt Sample (Unverified),10/27/2020 17:14,6bbebdc5-7a95-4edd-b8f7-50289d9e8176,Thanks for the demo - this was great!
+Attendee,Question,Harjit (Unverified),10/27/2020 17:15,b3aa7df1-2610-443f-8722-e7f3b24da421,Great session (v3 catalog and wsus stuff). Nice work Justin and Andrew
+Attendee,Question,Harjit (Unverified),10/27/2020 17:15,c9ae17ce-6934-4ba6-b7d1-419e7b606d48,Great session (v3 catalog and wsus stuff). Nice work Justin and Andrew
+Attendee,Question,sunil (Unverified),10/27/2020 17:15,f647e90b-83c5-4232-9a67-e9aa8558f1e5,"We have all devices Hybrid AD joined and we didn't configure Co-managemnt in our sccm environment and don't see any co-management collections, still all devices shows as co-managed. How this could be possible?"
+Attendee,Question,sunil (Unverified),10/27/2020 17:15,290e58e6-5d6d-4c44-9e09-9a77bb2ff55f,"We have all devices Hybrid AD joined and we didn't configure Co-managemnt in our sccm environment and don't see any co-management collections, still all devices shows as co-managed. How this could be possible?"
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 17:20,290e58e6-5d6d-4c44-9e09-9a77bb2ff55f,"I believe hybrid devices are marked as co-mangaed in Managed By by default even without co-management in place. It can be confusing(sunil (Unverified) asked ""We have all devices Hybrid AD joined and we didn't configure Co-managemnt in our sccm environment and don't see any co-management collections, still all devices shows as co-managed. How this could be possible?"")"
+Attendee,Question,Vish (Unverified),10/27/2020 17:15,a21be43e-2119-43ed-93f8-966bce1c8870,Thanks folks great sessions.
+Attendee,Question,Vish (Unverified),10/27/2020 17:16,c5a08acb-ea40-421e-9e5c-85414afeca87,Thanks folks great sessions.
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:17,aaf4ef1b-4fff-4d91-885a-d21405b89821,Are you able to manage reboots when required by the driver/bios?
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:17,ec957b45-ab56-46d8-a68e-07d2abd17f7a,Is there a Uservoice for cleaning up the Update Services Package folder?
+Attendee,Question,Any concern running the cleanup in the wsus console with removing computers and such from wsus (Unverified),10/27/2020 17:17,f14f6c58-f2ff-405f-b798-a4f2c143e6d1,Any concern running the cleanup in the wsus console with removing computers and such from wsus
+Attendee,Question,Gibson99 (Unverified),10/27/2020 17:17,0c765e62-2b4a-4cb2-8a8b-51a4ac03253c,what kind of performance hit are we talking by adding thousands of drivers into wsus?
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:17,aee3af70-fee7-48e5-bc6c-a23a92e86022,Is there a Uservoice for cleaning up the Update Services Package folder?
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 17:18,aee3af70-fee7-48e5-bc6c-a23a92e86022,Not sure if there is for MSFT(Is there a Uservoice for cleaning up the Update Services Package folder?)
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:17,2dbc042f-122d-420e-a1d6-8799cb29a626,Are you able to manage reboots when required by the driver/bios?
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:18,2dbc042f-122d-420e-a1d6-8799cb29a626,The driver should return 3010 if it requires and update(Are you able to manage reboots when required by the driver/bios?)
+Attendee,Question,Gibson99 (Unverified),10/27/2020 17:17,4513adce-f14d-40d1-8451-c76e67c4fa8d,what kind of performance hit are we talking by adding thousands of drivers into wsus?
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 17:19,4513adce-f14d-40d1-8451-c76e67c4fa8d,"It depends :) answered on voice(Gibson99 (Unverified) asked ""what kind of performance hit are we talking by adding thousands of drivers into wsus?"")"
+Attendee,Question,Any concern running the cleanup in the wsus console with removing computers and such from wsus (Unverified),10/27/2020 17:18,7898c698-5075-42b9-a019-bb66a9688b22,Any concern running the cleanup in the wsus console with removing computers and such from wsus
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 17:19,7898c698-5075-42b9-a019-bb66a9688b22,"Not that I know of(Any concern running the cleanup in the wsus console with removing computers and such from wsus (Unverified) asked ""Any concern running the cleanup in the wsus console with removing computers and such from wsus"")"
+Moderator,Announcement,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:18,fe868a66-822e-4f13-b050-7b7668c46b34,http://vsmug.com/feedback
+Attendee,Question,Renae (Unverified),10/27/2020 17:18,a50eebec-ad2c-4b33-83aa-c1b3c3b569b1,Great demo...thank you!
+Attendee,Question,Renae (Unverified),10/27/2020 17:18,33ec8e59-838a-4305-916f-5c053e8e2b66,Great demo...thank you!
+Attendee,Question,can I decline updates directly from the WSUS console? (Unverified),10/27/2020 17:18,9cb5ff65-f830-4670-93cd-10e2a748a4e7,can I decline updates directly from the WSUS console?
+Attendee,Question,can I decline updates directly from the WSUS console? (Unverified),10/27/2020 17:18,82940f28-8a5b-48db-8f48-a2ffa4c6bf44,can I decline updates directly from the WSUS console?
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 17:21,82940f28-8a5b-48db-8f48-a2ffa4c6bf44,"Not in WSUS by default need to use a tool to do it or PowerShell WSUS API(can I decline updates directly from the WSUS console? (Unverified) asked ""can I decline updates directly from the WSUS console?"")"
+Attendee,Question,can I decline updates directly from the WSUS console? (Unverified),10/27/2020 17:18,d6b5787d-62e9-46b4-a533-a0f4d4583278,is that recommended?
+Attendee,Question,can I decline updates directly from the WSUS console? (Unverified),10/27/2020 17:18,b2b6757f-9415-496a-a0e5-55f4f77fb82e,is that recommended?
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:18,69be6dc5-ace3-4553-b90b-ae07c9628de0,Where can we get the recording of this session.
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:19,8aabffd4-8c8b-487a-9e3e-ac5f2339b53d,Where can we get the recording of this session.
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 17:21,8aabffd4-8c8b-487a-9e3e-ac5f2339b53d,I believe it will be here https://vsmug.com/YouTube(Where can we get the recording of this session.)
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:21,8aabffd4-8c8b-487a-9e3e-ac5f2339b53d,correct(Where can we get the recording of this session.)
+Attendee,Question,David Watts (Unverified),10/27/2020 17:19,2aafbd6a-e557-4920-aeeb-a8820aa4df75,Do you suggest drivers and BIOS update during OSD?
+Attendee,Question,David Watts (Unverified),10/27/2020 17:20,77ebabc6-ff97-41aa-ae0b-07f5f59e969d,Do you suggest drivers and BIOS update during OSD?
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 17:21,77ebabc6-ff97-41aa-ae0b-07f5f59e969d,"yes I treat BIOS and drivers like I would patching. I want to implement the latest where possible and manage this going forward(David Watts (Unverified) asked ""Do you suggest drivers and BIOS update during OSD?"")"
+Attendee,Question,Daniel (Unverified),10/27/2020 17:21,33ed300a-9d7c-4db6-a98f-ff004f714f38,Bitlocker issue when updating drivers from vendor? Meaning does it suspend Bitlocker if BIOS is updated or would/should there be an issue if using Bitlocker there?
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:21,be0e530a-571a-4050-a012-5db734ee23e7,We're a new customer for PatchMyPC is there any dashboard in SCCM to view ThirdParty results or other reporting info?
+Attendee,Question,Daniel (Unverified),10/27/2020 17:21,44435476-4201-416a-b709-a1703f366c5d,Bitlocker issue when updating drivers from vendor? Meaning does it suspend Bitlocker if BIOS is updated or would/should there be an issue if using Bitlocker there?
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:21,452b4382-cd68-4a88-a954-8c3735bbd6cb,do you recommend a separate ADR/Deployment package to separate the drivers?
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:21,0193fc0d-158f-4338-9433-9170f4e4d48e,We're a new customer for PatchMyPC is there any dashboard in SCCM to view ThirdParty results or other reporting info?
+Moderator,Response,Paul Winstanley (paul.winstanley@sccmsolutions.co.uk),10/27/2020 17:23,0193fc0d-158f-4338-9433-9170f4e4d48e,You can view them in the Patch My PC console or you can integrate into SSRS(We're a new customer for PatchMyPC is there any dashboard in SCCM to view ThirdParty results or other reporting info?)
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:21,0a06be33-5054-4c3c-93d1-0ed1aee5e268,do you recommend a separate ADR/Deployment package to separate the drivers?
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:22,0a06be33-5054-4c3c-93d1-0ed1aee5e268,"I would, just for ease of use.(do you recommend a separate ADR/Deployment package to separate the drivers?)"
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:22,48e32331-b73f-4959-b58c-68c92cedf541,If you've flipped the switch to WUfB then you can't use the the driver catalog?
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:23,9da3c972-3ef0-47a2-a7b0-2a7686788e89,If you've flipped the switch to WUfB then you can't use the the driver catalog?
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:23,9da3c972-3ef0-47a2-a7b0-2a7686788e89,"If you are co-managed, 3rd party updates will still work with WUfB(If you've flipped the switch to WUfB then you can't use the the driver catalog?)"
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:23,9da3c972-3ef0-47a2-a7b0-2a7686788e89,https://docs.microsoft.com/en-us/mem/configmgr/sum/deploy-use/integrate-windows-update-for-business-windows-10(If you've flipped the switch to WUfB then you can't use the the driver catalog?)
+Attendee,Question,Anders (Unverified),10/27/2020 17:23,2e4b55cc-52a5-49b0-b738-7c3b1aa58ec4,Do you have the link to your tool?
+Attendee,Question,Anders (Unverified),10/27/2020 17:23,e9d66515-955d-44b1-b2d1-824598df0c0b,Do you have the link to your tool?
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:24,e9d66515-955d-44b1-b2d1-824598df0c0b,"which one?
+Publisher: https://patchmypc.com/publishing-service-setup-documentation(Anders (Unverified) asked ""Do you have the link to your tool?"")"
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:25,e9d66515-955d-44b1-b2d1-824598df0c0b,"script vsmug.com/github(Anders (Unverified) asked ""Do you have the link to your tool?"")"
+Attendee,Question,Any concern running the cleanup in the wsus console with removing computers and such from wsus (Unverified),10/27/2020 17:24,e7fc4aad-4ef8-4fc5-81ab-b50ffb936d47,I noticed Adobe isn't showing products when I build an ADR
+Attendee,Response,Any concern running the cleanup in the wsus console with removing computers and such from wsus (Unverified),10/27/2020 17:28,e7fc4aad-4ef8-4fc5-81ab-b50ffb936d47,"All right that makes sense, so it is a manual process every month to get them published(Any concern running the cleanup in the wsus console with removing computers and such from wsus (Unverified) asked ""I noticed Adobe isn't showing products when I build an ADR"")"
+Attendee,Question,Any concern running the cleanup in the wsus console with removing computers and such from wsus (Unverified),10/27/2020 17:24,4f24fda2-d737-467d-beb9-77fcdb6b0c77,Any concern running the cleanup in the wsus console with removing computers and such from wsus
+Attendee,Question,David Watts (Unverified),10/27/2020 17:25,6709b09a-05ff-4118-b1e3-abbaf896ecdb,Thank you!!!!
+Attendee,Question,Any concern running the cleanup in the wsus console with removing computers and such from wsus (Unverified),10/27/2020 17:25,4279877a-4bc5-4ed0-9940-ea8f7e7dc728,I noticed Adobe isn't showing products when I build an ADR
+Moderator,Response,Justin Chalfant (justin@patchmypc.com),10/27/2020 17:28,4279877a-4bc5-4ed0-9940-ea8f7e7dc728,"Done(Any concern running the cleanup in the wsus console with removing computers and such from wsus (Unverified) asked ""I noticed Adobe isn't showing products when I build an ADR"")"
+Attendee,Question,Andreas (Unverified),10/27/2020 17:25,24fdbd74-b902-4184-bc16-86f279aa21cb,Thank you very much - I learned quite a lot ;-) 
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:25,7a33b30d-90ef-47f6-9c2a-5e7eaa282988,This was GREAT! Thank you :) 
+Attendee,Question,David Watts (Unverified),10/27/2020 17:25,24cfa1f7-dd5e-4f2b-b692-936e6ef42d31,Thank you!!!!
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:25,afb98937-9c61-41f2-a46a-88360685077c,This was GREAT! Thank you :) 
+Attendee,Question,Any concern running the cleanup in the wsus console with removing computers and such from wsus (Unverified),10/27/2020 17:25,2a72920f-3533-4776-9ad1-6966885052af,Any concern running the cleanup in the wsus console with removing computers and such from wsus
+Moderator,Response,Andrew Jimenez (andrew@patchmypc.com),10/27/2020 17:25,2a72920f-3533-4776-9ad1-6966885052af,"Nope(Any concern running the cleanup in the wsus console with removing computers and such from wsus (Unverified) asked ""Any concern running the cleanup in the wsus console with removing computers and such from wsus"")"
+Attendee,Question,Andreas (Unverified),10/27/2020 17:25,d926a037-52d8-47a2-87c2-3c46298e8430,Thank you very much - I learned quite a lot ;-) 
+Attendee,Question,Oleg (Unverified),10/27/2020 17:25,94fd74b6-32c9-4f9b-aa87-e314222d3455,Thank you Justin and Co! :)
+Attendee,Question,Oleg (Unverified),10/27/2020 17:25,62b91052-ba1e-401c-a86f-f8f2bc1ebf81,Thank you Justin and Co! :)
+Attendee,Question,k (Unverified),10/27/2020 17:25,c7f2c6cb-d768-42f8-a326-1bf5f9479d9b,Vielen Dank
+Attendee,Question,k (Unverified),10/27/2020 17:25,4c7a3b33-5cc2-4339-acaf-44998be75caf,Vielen Dank
+Attendee,Question,Samba Tamo (Unverified),10/27/2020 17:25,71784e54-8447-463b-a3ba-e7db41875526,how to get updates on co-managed device<'
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:25,fdaa404d-19bc-4934-8b3d-263fa38acbe4,Great Job
+Attendee,Question,Samba Tamo (Unverified),10/27/2020 17:25,dde81369-fd19-4336-8f0f-e5765aff85a4,how to get updates on co-managed device<'
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:25,dbcbc666-b10f-4db4-ae3d-a0b490cee0c4,Great Job
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:25,2d7550ce-8dc4-44a8-a0bc-ec281b077124,Thank you
+Attendee,Question,Moreal (Unverified),10/27/2020 17:25,feb45934-4554-4642-9e04-caaace2c286b,"Thanks much, very awesome info!"
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:25,e9c2d606-0df0-4237-9880-2a504058f785,Thank you
+Attendee,Question,Moreal (Unverified),10/27/2020 17:25,17cc427f-f105-43ad-a13b-a4003b2a3154,"Thanks much, very awesome info!"
+Attendee,Question,Matt Page (Unverified),10/27/2020 17:25,59f8e17e-d84b-49b1-8afe-30a5fd3036f3,Thanks!
+Attendee,Question,Matt Page (Unverified),10/27/2020 17:25,99cfee5a-b796-4a2a-927b-7c128df1a870,Thanks!
+Attendee,Question,k (Unverified),10/27/2020 17:25,b59a4cca-529b-4f7e-942e-a0aea16d6d61,Thank you
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:25,dfa43091-c891-45b0-8790-5b50b0e3cec2,thanks
+Attendee,Question,k (Unverified),10/27/2020 17:26,7a4391b4-2ac0-49e7-9a0f-0adcfc168800,Thank you
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:26,dfdb5481-27f6-4e92-afe5-2d8dbb0c5739,thanks
+Attendee,Question,Nick (Unverified),10/27/2020 17:26,d7e00891-458f-4402-b2f7-330bdddd0896,great presentation - looking forwad to more. thanks very much.
+Attendee,Question,Nick (Unverified),10/27/2020 17:26,193a5727-f4bb-4995-97c8-b4e75b378215,great presentation - looking forwad to more. thanks very much.
+Attendee,Question,mdrafik (Unverified),10/27/2020 17:27,b4529068-c9ad-47dc-b44f-a7bec410eb14,Thanks jastin and team.
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:28,8eaf5a08-c855-4614-923e-bce52b795ed1,"Great presentation, thank you all!"
+Attendee,Question,Anonymous (Unverified),10/27/2020 17:28,7989d204-c7fb-41ff-8dee-df32bf4954a3,"Great presentation, thank you all!"
+Attendee,Question,mdrafik (Unverified),10/27/2020 17:28,677e4625-a0db-4fd2-b7da-5fe2bcd6a3b6,Thanks jastin and team.
+Attendee,Question,Ian (Unverified),10/27/2020 17:28,3e7cb59c-8073-4237-bcf4-425db0e1522a,thanks 
+Attendee,Question,Markus (Unverified),10/27/2020 17:29,fb3661be-a0f1-4bfc-82f6-94577ce50093,thanks bye
+Attendee,Question,Samba Tamo (Unverified),10/27/2020 17:29,ff5922bc-7776-4c38-95f7-6164c95c8a78,"Great presentation, well done"
+Attendee,Question,Matt C (Unverified),10/27/2020 17:39,dd6ee71a-c25a-4de0-b288-0a7c071a452a,Thanks guys!
