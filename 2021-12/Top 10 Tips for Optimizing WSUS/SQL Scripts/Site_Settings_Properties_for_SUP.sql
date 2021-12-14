@@ -1,0 +1,1 @@
+select Name,LEFT(Value1, 16383),LEFT(Value2, 16383),Value3,ISNULL(DATALENGTH(Value1),0),ISNULL(DATALENGTH(Value2),0) from vSMS_SC_Component_Properties where ID = 72057594037928061 order by Name
